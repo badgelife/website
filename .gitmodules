@@ -1,0 +1,3 @@
+[submodule "DC25/CPV"]
+	path = DC25/CPV
+	url = https://github.com/cryptovillage/badge2017.git
