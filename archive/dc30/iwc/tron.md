@@ -1,11 +1,12 @@
 ---
-title: Tron Badge
+title: IWC - Tron Badge
 layout: default
 parent: DC30
 grand_parent: Archive
 ---
 
 # Ironwood Cyber Team - DC30  Tron Badge  
+![alt text](images/badge_cyan_dark_room.jpg)
 
 ## Pcb devs:
 - kimboslice
@@ -36,4 +37,4 @@ grand_parent: Archive
 ![alt text](images/badge_without_inner_ring_diffuser.jpg)
 
 # Behind the Scenes/Making of the badge Images:
-![alt text](making_of_badge.jpg)
+![alt text](images/making_of_badge.jpg)

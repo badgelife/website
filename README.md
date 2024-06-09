@@ -12,6 +12,8 @@ This repository hosts the badge.life website, Publicly maintained by the communi
 - browse website at `
 http://localhost:4000/`
 
+[Documentation on syntax](https://just-the-docs.github.io/just-the-docs/docs/ui-components)
+
 ## Pull Requests & Collaborating
 To collaborate you wither need to be added as a repository collaborator, or you need to fork the project.
 
