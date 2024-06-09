@@ -1,5 +1,5 @@
 ---
-title: Reactor Badge
+title: IWC - Reactor Badge
 layout: default
 parent: DC31
 grand_parent: Archive
@@ -17,7 +17,7 @@ grand_parent: Archive
 - joehacksalot
 - n0decaf
 
-## Companion app dev: 
+## Mobile Apps, Serverless Cloud & Social Game dev & Mini-CTF GameMaster:
 - Shiloh
 
 ## Website devs:
@@ -27,6 +27,9 @@ grand_parent: Archive
 # Link to Repos
 [Schematics](TODO)
 [Source](TODO)
+
+# Link to Discord
+[Discord](https://discord.gg/nsQrmVc7H3)
 
 # Badge Images:
 TODO
