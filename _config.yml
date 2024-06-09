@@ -1,0 +1,11 @@
+title: Badge Life
+description: Collection of all things Badge Life
+theme: just-the-docs
+
+url: https://badge.life/
+
+# _config.yml
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
