@@ -7,32 +7,33 @@ grand_parent: Archive
 
 # Ironwood Cyber Team - DC31  Reactor Badge
 
-## Pcb devs:
+---
+
+## Developers 
+
+### Pcb devs:
 - kimboslice
 - notthatguy
 - joehacksalot
 
-## Embedded Software devs:
+### Embedded Software devs:
 - notthatguy
 - joehacksalot
 - n0decaf
 
-## Mobile Apps, Serverless Cloud & Social Game dev & Mini-CTF GameMaster:
+### Mobile Apps, Serverless Cloud & Social Game dev & Mini-CTF GameMaster:
 - Shiloh
 
-## Website devs:
+### Website devs:
 - LeetPanda
 - Spaghetti Code  
 
-# Link to Repos
-[Schematics](TODO)
-[Source](TODO)
+## Project Links
+- [Schematics Repo](TODO)
+- [Source Repo](TODO)
 
-# Link to Discord
-[Discord](https://discord.gg/nsQrmVc7H3)
+## Link to Discord
+- [Discord](https://discord.gg/nsQrmVc7H3)
 
-# Badge Images:
-TODO
-
-# Behind the Scenes/Making of the badge Images:
+## Badge Images:
 TODO

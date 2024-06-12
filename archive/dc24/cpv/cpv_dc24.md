@@ -7,4 +7,7 @@ grand_parent: Archive
 
 # Cypto & Privacy Village - DC24 Badge
 
-[Link to repo](https://github.com/cryptovillage/badge2016)
+---
+
+## Project Links
+- [Project repo](https://github.com/cryptovillage/badge2016)

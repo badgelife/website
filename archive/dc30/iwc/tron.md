@@ -6,35 +6,37 @@ grand_parent: Archive
 ---
 
 # Ironwood Cyber Team - DC30  Tron Badge  
-![alt text](images/badge_cyan_dark_room.jpg)
+<img src="images/tron1.jpg" alt="badge" width="200"/>
 
-## Pcb devs:
+---
+
+## Developers
+
+### Pcb devs:
 - kimboslice
 - notthatguy
 - joehacksalot
 
-## Embedded Software devs:
+### Embedded Software devs:
 - notthatguy
 - joehacksalot
 
-## Companion app dev: 
+### Companion Web App dev: 
 - Shiloh
 
-## Website devs:
+### Website devs:
 - LeetPanda
 - Spaghetti Code  
 
-# Link to Repos
-[Schematics](https://github.com/Ironwood-Cyber/dc30-badge-hw)
-[Source](TODO)
+## Project Links
+- [Schematics Repo](https://github.com/Ironwood-Cyber/dc30-badge-hw)
+- [Source Repo](TODO)
 
-# Badge Images:
-![alt text](images/badge_back_cyan.jpg)
-![alt text](images/badge_cyan_dark_room.jpg)
-![alt text](images/badge_lanyard_holder_cyan.jpg)
-![alt text](images/badge_off_lit_room.jpg)
-![alt text](images/badge_rainbow_dark_room.jpg)
-![alt text](images/badge_without_inner_ring_diffuser.jpg)
-
-# Behind the Scenes/Making of the badge Images:
-![alt text](images/making_of_badge.jpg)
+## Badge Images:
+<img src="images/tron1.jpg" alt="badge" width="300"/>
+<img src="images/tron2.jpg" alt="badge" width="300"/>
+<img src="images/tron3.jpg" alt="badge" width="300"/>
+<img src="images/tron4.jpg" alt="badge" width="300"/>
+<img src="images/tron5.jpg" alt="badge" width="300"/>
+<img src="images/tron6.jpg" alt="badge" width="300"/>
+<img src="images/tron7.jpg" alt="badge" width="300"/>
