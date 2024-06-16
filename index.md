@@ -57,5 +57,5 @@ Catch up on recent articles and updates:
 ## Join Us
 
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, there’s a place for you here:
-- **[Join the Badge Life Discord](https://discord.gg/your-invite-link)** 
+- **[Join the Badge Makers Discord](https://discord.gg/R4jGhTqJ3J)** 
 - **[Join the Maker Village Discord](https://discord.gg/BrMRmAAMYv)**
