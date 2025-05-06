@@ -1,5 +1,7 @@
 # badge.life website
 
+demoing github
+
 This repository hosts the badge.life website, Publicly maintained by the community. If you would like to contribute, please submit a PR and maintainers will see it merged in as soon as posible.
 
 ## Installing Prerequisites
