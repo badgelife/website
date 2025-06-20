@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-![Badgelife Banner](assets/images/badge-life-logo-banner.png)
+![Badgelife Banner](assets/images/BadgeMakersBanner.png)
 
 # Welcome to BadgeLife!
 
@@ -57,5 +57,6 @@ Catch up on recent articles and updates:
 ## Join Us
 
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, there’s a place for you here:
-- **[Join the Badge Makers Discord](https://discord.gg/R4jGhTqJ3J)** 
-- **[Join the Maker Village Discord](https://discord.gg/BrMRmAAMYv)**
+- **[Join the BadgeMakers Discord](https://discord.gg/R4jGhTqJ3J)**
+
+![Badgelife Discord](assets/images/BadgeMakers-Fixed.png)
