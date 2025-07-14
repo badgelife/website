@@ -14,7 +14,15 @@ Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be
 
 | Date | Time | Event | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fri 8/8 | 9:00 AM | Village Setup |  |  |  | Panda |  |  | ReanimationXP |
+| THURSDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thurs 8/7 | 8:00 AM | (Not Open To Humans) |  |  |  | Pre-Badgelife Load-In |  |  |  |
+| Thurs 8/7 | 3:00 PM |  |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
+| Thurs 8/7 | 3:30 PM |  |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
+| Thurs 8/7 | 4:00 PM |  |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
+| Thurs 8/7 | 4:30 PM |  |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
+| Thurs 8/7 | 5:00 PM |  |  |  |  | Post Load-In |  |  |  |
+| FRIDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fri 8/8 | 9:00 AM | Set Up |  |  |  | Panda |  |  | ReanimationXP |
 | Fri 8/8 | 9:30 AM |  |  |  |  | Panda | Fluxfluxflux |  | ReanimationXP |
 | Fri 8/8 | 10:00 AM |  |  | vor_t3x1 ??? |  | Panda | Fluxfluxflux |  | ReanimationXP |
 | Fri 8/8 | 10:30 AM |  |  | Penzz ???? |  | Panda | Fluxfluxflux |  | ReanimationXP |
@@ -34,36 +42,48 @@ Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be
 | Fri 8/8 | 5:30 PM | Lipo & d1stinctmind | Trivia | Penzz |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
 | Fri 8/8 | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
 | Fri 8/8 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
-| Sat 8/8 | 9:00 AM | Village Setup |  |  |  |  |  |  | ReanimationXP |
-| Sat 8/8 | 9:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/8 | 10:00 AM |  |  | vor_t3x1 ??? |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/8 | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/8 | 11:00 AM | iQlusion | Hardware Hacking Badge Development Talk | NilbinSec Hackem Crackem |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/8 | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/8 | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/8 | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/8 | 1:00 PM | Hamster | Coating your PCBs | Lipo - Shitty Kitty v2 |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/8 | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| Sat 8/8 | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| Sat 8/8 | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| Sat 8/8 | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| Sat 8/8 | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| Sat 8/8 | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| Sat 8/8 | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/8 | 5:00 PM |  |  | vor_t3x1 ??? |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/8 | 5:30 PM |  |  | danpalm ??? |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/8 | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/8 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
-| Sat 8/10 | 9:00 AM | Village Setup |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sat 8/10 | 9:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sat 8/10 | 10:00 AM |  |  | beckettcat ??? |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sat 8/10 | 10:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sat 8/10 | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sat 8/10 | 11:30 AM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sat 8/10 | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sat 8/10 | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sat 8/10 | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sat 8/10 |  | FIN |  |  |  |  |  |  |  |
+| SATURDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sat 8/9 | 9:00 AM | Set Up |  |  |  |  |  |  | ReanimationXP |
+| Sat 8/9 | 9:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Sat 8/9 | 10:00 AM |  |  | vor_t3x1 ??? |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Sat 8/9 | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Sat 8/9 | 11:00 AM | iQlusion | Hardware Hacking Badge Development Talk | NilbinSec Hackem Crackem |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Sat 8/9 | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Sat 8/9 | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Sat 8/9 | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Sat 8/9 | 1:00 PM | Hamster | Coating your PCBs | Lipo - Shitty Kitty v2 |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Sat 8/9 | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| Sat 8/9 | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| Sat 8/9 | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| Sat 8/9 | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| Sat 8/9 | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| Sat 8/9 | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| Sat 8/9 | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| Sat 8/9 | 5:00 PM |  |  | vor_t3x1 ??? |  | Wrickert | Muzzle |  | ReanimationXP |
+| Sat 8/9 | 5:30 PM |  |  | danpalm ??? |  | Wrickert | Muzzle |  | ReanimationXP |
+| Sat 8/9 | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| Sat 8/9 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| SUNDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sun 8/10 | 9:00 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sun 8/10 | 9:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sun 8/10 | 10:00 AM |  |  | beckettcat ??? |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sun 8/10 | 10:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sun 8/10 | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sun 8/10 | 11:30 AM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sun 8/10 | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sun 8/10 | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sun 8/10 | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sun 8/10 | 1:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 2:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 2:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 3:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 3:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 4:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 5:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sun 8/10 | 5:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sun 8/10 | 6:00 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sun 8/10 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sun 8/10 |  | FIN |  |  |  |  |  |  |  |
 
 
 ### 📚 Explore The Badge Archive
