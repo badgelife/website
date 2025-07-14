@@ -14,73 +14,73 @@ Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be
 
 | Date | Time | Event | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| THURSDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Thurs 8/7 | 8:00 AM | (Not Open To Humans) |  |  |  | Pre-Badgelife Load-In |  |  |  |
-| Thurs 8/7 | 3:00 PM | (Not Open To Humans) |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
-| Thurs 8/7 | 3:30 PM | (Not Open To Humans) |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
-| Thurs 8/7 | 4:00 PM | (Not Open To Humans) |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
-| Thurs 8/7 | 4:30 PM | (Not Open To Humans) |  |  |  | Village Load-In | Wrickert | True | ReanimationXP |
-| Thurs 8/7 | 5:00 PM | (Not Open To Humans) |  |  |  | Post Load-In |  |  |  |
-| FRIDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fri 8/8 | 9:00 AM | Set Up |  |  |  | Panda |  |  | ReanimationXP |
-| Fri 8/8 | 9:30 AM | Set Up |  |  |  | Panda | Fluxfluxflux |  | ReanimationXP |
-| Fri 8/8 | 10:00 AM |  |  | vor_t3x1 SaO MANY SAOs |  | Panda | Fluxfluxflux |  | ReanimationXP |
-| Fri 8/8 | 10:30 AM |  |  | Penzz - GigaGeiger |  | Panda | Fluxfluxflux |  | ReanimationXP |
-| Fri 8/8 | 11:00 AM | Panda | Coating Your PCBs | Sonicos - Black Badge Raffle TCG |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
-| Fri 8/8 | 11:30 AM |  |  | BigTaro Submarine Badge/FrogStar Badge/FightDystopia Badge |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
-| Fri 8/8 | 12:00 PM | Lipo | Z80 Badge Talk - In Community |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Fri 8/8 | 12:30 PM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Fri 8/8 | 1:00 PM | ozma.of.oz & LqqkOut | Badge Necromancy Presentation |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Fri 8/8 | 1:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Fri 8/8 | 2:00 PM | pcbhamster | An Artistic Approach to PCB Design | Sonicos - Black Badge Raffle TCG |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Fri 8/8 | 2:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Fri 8/8 | 3:00 PM | Lipo & d1stinctmind | Trivia | NilbinSec Hackem Crackem |  | pcbhamster | fg |  | ReanimationXP |
-| Fri 8/8 | 3:30 PM | Lipo & d1stinctmind | Trivia | Lipo - Shitty Kitty v2 |  | pcbhamster | fg |  | ReanimationXP |
-| Fri 8/8 | 4:00 PM | Lipo & d1stinctmind | Trivia | Heal-Hak4Kidz ??? |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
-| Fri 8/8 | 4:30 PM | Lipo & d1stinctmind | Trivia | Vortex1 / Coruscant Ventures - SaO MANY SAOs |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
-| Fri 8/8 | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
-| Fri 8/8 | 5:30 PM | Lipo & d1stinctmind | Trivia | Penzz - GigiGeiger |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
-| Fri 8/8 | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
-| Fri 8/8 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
-| SATURDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sat 8/9 | 9:00 AM | Set Up |  |  |  |  |  |  | ReanimationXP |
-| Sat 8/9 | 9:30 AM | Set Up |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/9 | 10:00 AM |  |  | Vortex1 / Coruscant Ventures - SaO MANY SAOs |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/9 | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/9 | 11:00 AM | iQlusion | Hardware Hacking Badge Development Talk | NilbinSec Hackem Crackem | Sonicos - Black Badge Raffle TCG | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| Sat 8/9 | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/9 | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/9 | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/9 | 1:00 PM | Hamster | Coating your PCBs | Lipo - Shitty Kitty v2 |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| Sat 8/9 | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| Sat 8/9 | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" | Sonicos - Black Badge Raffle TCG |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| Sat 8/9 | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| Sat 8/9 | 3:00 PM | BigTaro | So you want to make a badge? Badge Creation 101, from SAO to full #badgelife |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| Sat 8/9 | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| Sat 8/9 | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| Sat 8/9 | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/9 | 5:00 PM |  |  | vor_t3x1 SaO MANY SAOs |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/9 | 5:30 PM |  |  | dani.pink Laser* Tag Badge |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/9 | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| Sat 8/9 | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
-| SUNDAY | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sun 8/10 | 9:00 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sun 8/10 | 9:30 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sun 8/10 | 10:00 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sun 8/10 | 10:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| Sun 8/10 | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sun 8/10 | 11:30 AM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sun 8/10 | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sun 8/10 | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sun 8/10 | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| Sun 8/10 | 1:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 2:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 2:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 3:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 3:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 4:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 | 5:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
-| Sun 8/10 |  | FIN |  |  |  |  |  |  |  |
+| **THURSDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Thurs 8/7** | 8:00 AM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Pre-Badgelife Load-In |  |  |  |
+| **Thurs 8/7** | 3:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
+| **Thurs 8/7** | 3:30 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
+| **Thurs 8/7** | 4:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
+| **Thurs 8/7** | 4:30 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
+| **Thurs 8/7** | 5:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Post Load-In |  |  |  |
+| **FRIDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Fri 8/8** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda |  |  | ReanimationXP |
+| **Fri 8/8** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda | Fluxfluxflux |  | ReanimationXP |
+| **Fri 8/8** | 10:00 AM |  |  | SaO MANY SAOs - vor_t3x1 |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| **Fri 8/8** | 10:30 AM |  |  | GigaGeiger - Penzz |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| **Fri 8/8** | 11:00 AM | Panda | Coating Your PCBs | Black Badge Raffle TCG - Sonicos |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
+| **Fri 8/8** | 11:30 AM |  |  | Submarine Badge/FrogStar Badge/FightDystopia Badge - BigTaro |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
+| **Fri 8/8** | 12:00 PM | Lipo | Z80 Badge Talk - In Community |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Fri 8/8** | 12:30 PM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Fri 8/8** | 1:00 PM | ozma.of.oz & LqqkOut | Badge Necromancy Presentation |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 1:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 2:00 PM | pcbhamster | An Artistic Approach to PCB Design | Black Badge Raffle TCG - Sonicos |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 2:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | Trivia | Hack 'em Crack 'em Robots - NilbinSec |  | pcbhamster | fg |  | ReanimationXP |
+| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | Trivia | Shitty Kitty v2 - Lipo |  | pcbhamster | fg |  | ReanimationXP |
+| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia | Heal-Hak4Kidz ??? |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | Trivia | SaO MANY SAOs - Vortex1 / Coruscant Ventures |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | Trivia | GigaGeiger - Penzz |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
+| **Fri 8/8** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
+| **Fri 8/8** | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| **SATURDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Sat 8/9** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) |  |  |  | ReanimationXP |
+| **Sat 8/9** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 10:00 AM |  |  | SaO MANY SAOs - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 11:00 AM | iQlusion | Hardware Hacking Badge Development Talk | Hack 'em Crack 'em Robots - NilbinSec | Sonicos - Black Badge Raffle TCG | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Sat 8/9** | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Sat 8/9** | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Sat 8/9** | 1:00 PM | Hamster | Coating your PCBs | Lipo - Shitty Kitty v2 |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Sat 8/9** | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| **Sat 8/9** | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" | Black Badge Raffle TCG - Sonicos |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| **Sat 8/9** | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 3:00 PM | BigTaro | So you want to make a badge? Badge Creation 101, from SAO to full #badgelife |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 5:00 PM |  |  | SaO MANY SAOs - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 5:30 PM |  |  | Laser* Tag Badge - dani.pink |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| **SUNDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Sun 8/10** | 9:00 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Sun 8/10** | 9:30 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Sun 8/10** | 10:00 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Sun 8/10** | 10:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| **Sun 8/10** | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 11:30 AM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 1:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 2:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 2:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 3:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 3:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 4:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | 5:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** |  | **FIN** |  |  |  |  |  |  |  |
 
 
 ### 📚 Explore The Badge Archive
