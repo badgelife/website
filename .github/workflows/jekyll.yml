@@ -34,9 +34,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        #uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        uses: ruby/setup-ruby@v1 #previous commit hash didn't support ubuntu-latest and 24.04 -RXP
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          #ruby-version: '3.1' # Not needed with a .ruby-version file
+          ruby-version: '3.3' #recommended with ubuntu-latest change, assuming gem supports it -RXP
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
@@ -56,9 +58,15 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest #ubuntu-22.04 would fix issue if ubuntu-latest (24.04 now) isn't supported. notes below. trying latest first. -RXP
     needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+#7/14/25 Deployment Issue: https://github.com/badgelife/website/actions/runs/15781622885
+#ruby/setup-ruby looked at the runner image to decide whether it could download a pre-built Ruby.
+#When GitHub switched ubuntu-latest to Ubuntu 24.04 a few weeks ago, an older, pinned copy of the action no longer recognised the new image. It treated the job as “self-hosted” and stopped, telling you to build Ruby yourself – exactly the message you see in the log.
+#The maintainers have already added 24.04 support, but only the current ruby/setup-ruby@v1 tag (or any newer SHA) contains the fix. A patch for another project shows that simply replacing the hard-pinned commit with @v1 restores the workflow redmine.org
+#The README for the action now lists ubuntu-24.04 as a supported runner and recommends always using the floating @v1 tag instead of a commit hash GitHub
