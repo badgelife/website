@@ -37,8 +37,9 @@ jobs:
         #uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         uses: ruby/setup-ruby@v1 #previous commit hash didn't support ubuntu-latest and 24.04 -RXP
         with:
-          #ruby-version: '3.1' # Not needed with a .ruby-version file
-          ruby-version: '3.3' #recommended with ubuntu-latest change, assuming gem supports it -RXP
+          ruby-version: '3.1.4' # Not needed with a .ruby-version file
+          #ruby-version: '3.3' #recommended with ubuntu-latest change, assuming gem supports it -RXP
+                               #update: broke the action (exit code 1) bc of lock file mismatch; reverting to 3.1.4
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
