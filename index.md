@@ -8,11 +8,99 @@ nav_order: 1
 
 # Welcome to BadgeLife!
 
-Welcome to **BadgeLife**, the place for all things electronic badges! Dive into the archive, stay updated with the latest badge news, access a variety of maker resources to enhance your badge-making journey, and get in touch with other like-minded people to ask questions, learn, and contribute.
+Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Community (aka Village) Schedule.
 
-## Explore the Collection
+## Village / Community Schedule:
 
-### 📚 The Badge Archive
+| Date | Time | Event | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Thursday, August 7th | 8:00 AM | Not Open To Humans |  |  |  | Pre-Badgelife Load-In |  |  |  |
+| Thursday, August 7th | 8:30 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 9:00 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 9:30 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 10:00 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 10:30 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 11:00 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 11:30 AM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 12:00 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 12:30 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 1:30 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 1:00 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 2:00 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 2:30 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 3:00 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 3:30 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 4:00 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 4:30 PM |  |  |  |  |  | Wrickert | True | ReanimationXP |
+| Thursday, August 7th | 5:00 PM |  |  |  |  | Post Load-In |  |  |  |
+| Thursday, August 7th | 5:30 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 6:00 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 6:30 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 7:00 PM |  |  |  |  |  |  |  |  |
+| Thursday, August 7th | 7:30 PM |  |  |  |  |  |  |  |  |
+| Friday, August 8th | 9:00 AM | Set Up |  |  |  | Panda |  |  | ReanimationXP |
+| Friday, August 8th | 9:30 AM |  |  |  |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| Friday, August 8th | 10:00 AM |  |  | vor_t3x1 ??? |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| Friday, August 8th | 10:30 AM |  |  | Penzz ???? |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| Friday, August 8th | 11:00 AM | Panda | Coating Your PCBs |  |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
+| Friday, August 8th | 11:30 AM |  |  | BigTaro ??? |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
+| Friday, August 8th | 12:00 PM | Lipo | Z80 Badge Talk - In Community |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Friday, August 8th | 12:30 PM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Friday, August 8th | 1:00 PM | ozma.of.oz & LqqkOut | Badge Necromancy Presentation |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Friday, August 8th | 1:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Friday, August 8th | 2:00 PM | pcbhamster | An Artistic Approach to PCB Design |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Friday, August 8th | 2:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Friday, August 8th | 3:00 PM | Lipo & d1stinctmind | Trivia | NilbinSec Hackem Crackem |  | pcbhamster | fg |  | ReanimationXP |
+| Friday, August 8th | 3:30 PM | Lipo & d1stinctmind | Trivia | Lipo - Shitty Kitty v2 |  | pcbhamster | fg |  | ReanimationXP |
+| Friday, August 8th | 4:00 PM | Lipo & d1stinctmind | Trivia | Heal-Hak4Kidz ??? |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| Friday, August 8th | 4:30 PM | Lipo & d1stinctmind | Trivia | vor_t3x1 ??? |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| Friday, August 8th | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| Friday, August 8th | 5:30 PM | Lipo & d1stinctmind | Trivia | Penzz |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
+| Friday, August 8th | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
+| Friday, August 8th | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Saturday, August 9th | 9:00 AM | Set Up |  |  |  |  |  |  | ReanimationXP |
+| Saturday, August 9th | 9:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Saturday, August 9th | 10:00 AM |  |  | vor_t3x1 ??? |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Saturday, August 9th | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Saturday, August 9th | 11:00 AM | iQlusion | Hardware Hacking Badge Development Talk | NilbinSec Hackem Crackem |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| Saturday, August 9th | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Saturday, August 9th | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Saturday, August 9th | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Saturday, August 9th | 1:00 PM | Hamster | Coating your PCBs | Lipo - Shitty Kitty v2 |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| Saturday, August 9th | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| Saturday, August 9th | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| Saturday, August 9th | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| Saturday, August 9th | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| Saturday, August 9th | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| Saturday, August 9th | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| Saturday, August 9th | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| Saturday, August 9th | 5:00 PM |  |  | vor_t3x1 ??? |  | Wrickert | Muzzle |  | ReanimationXP |
+| Saturday, August 9th | 5:30 PM |  |  | danpalm ??? |  | Wrickert | Muzzle |  | ReanimationXP |
+| Saturday, August 9th | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| Saturday, August 9th | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sunday, August 10th | 9:00 AM | Set Up |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sunday, August 10th | 9:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sunday, August 10th | 10:00 AM |  |  | beckettcat ??? |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sunday, August 10th | 10:30 AM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
+| Sunday, August 10th | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sunday, August 10th | 11:30 AM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sunday, August 10th | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sunday, August 10th | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sunday, August 10th | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| Sunday, August 10th | 1:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 2:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 2:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 3:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 3:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 4:30 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 5:00 PM |  |  |  |  | Wrickert | True |  | ReanimationXP |
+| Sunday, August 10th | 5:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sunday, August 10th | 6:00 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sunday, August 10th | 6:30 PM |  |  |  |  |  |  |  | ReanimationXP |
+| Sunday, August 10th |  | FIN |  |  |  |  |  |  |  |
+
+
+### 📚 Explore The Badge Archive
 
 Discover detailed information about a wide range of electronic badges:
 - **Pictures:** High-quality images showcasing badge designs.
