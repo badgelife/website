@@ -70,12 +70,6 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 2:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 2:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 3:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 3:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 4:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | 5:00 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
 | **Sun 8/10** |  | **FIN** |  |  |  |  |  |  |  |
 
 
