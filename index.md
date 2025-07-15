@@ -15,7 +15,7 @@ Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be
 All events not labled **CREATOR STAGE** take place in the #Badgelife Community area.
 
 | Date | Time | Speaker/Host | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **THURSDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Thurs 8/7** | 3:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
 | **Thurs 8/7** | 5:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Post Load-In |  |  |  |
@@ -34,9 +34,9 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Fri 8/8** | 2:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | Trivia | **Hack 'em Crack 'em Robots** - NilbinSec |  | pcbhamster | fg |  | ReanimationXP |
 | **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | Trivia | **Shitty Kitty v2** - Lipo |  | pcbhamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia | **Hak4Kidz** - Heal-Hak4Kidz |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
-| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | Trivia | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
-| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzz Wife | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia | **Hak4Kidz** - Heal-Hak4Kidz |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | Trivia | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
 | **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | Trivia | **GigaGeiger** - Penzz |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
 | **Fri 8/8** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
 | **SATURDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
