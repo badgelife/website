@@ -28,13 +28,13 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Fri 8/8** | 11:30 AM |  |  | **Submarine Badge/FrogStar Badge/FightDystopia Badge** - BigTaro |  | ozma.of.oz | LqqkOut | Fluxfluxflux | ReanimationXP |
 | **Fri 8/8** | 12:00 PM | Lipo | Z80 Badge Talk |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
 | **Fri 8/8** | 12:30 PM |  |  |  |  | ozma.of.oz | LqqkOut |  | ReanimationXP |
-| **Fri 8/8** | 1:00 PM | ozma.of.oz & LqqkOut | Badge Necromancy Presentation |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 1:00 PM | ozma.of.oz & LqqkOut | Badge Necromancy Presentation | **NeoSword** - Wrickert |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 1:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 2:00 PM | pcbhamster | An Artistic Approach to PCB Design | **Black Badge Raffle TCG - Sonicos** |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 2:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 2:00 PM | pcbhamster | An Artistic Approach to PCB Design | **Black Badge Raffle TCG - Sonicos** | **Laser\* Tag Badge** - dani.pink | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 2:30 PM |  |  | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | Trivia | **Hack 'em Crack 'em Robots** - NilbinSec |  | pcbhamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | Trivia | **Shitty Kitty v2** - Lipo |  | pcbhamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia | **Hak4Kidz** - Heal-Hak4Kidz |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
+| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | Trivia |  |  | pcbhamster | fg |  | ReanimationXP |
+| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia | **Masonic33 Badge** - Heal-Hak4Kidz |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
 | **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | Trivia | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
 | **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzilzz | Heal-Hak4Kidz | ReanimationXP |
 | **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | Trivia | **GigaGeiger** - Penzz |  | Heal-Hak4Kidz | Trc3r42 |  | ReanimationXP |
@@ -43,16 +43,16 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) |  |  |  | ReanimationXP |
 | **Sat 8/9** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 10:00 AM |  |  | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 10:30 AM |  |  |  |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 10:30 AM |  |  | **Laser\* Tag Badge** - dani.pink |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 11:00 AM |  |  | **Hack 'em Crack 'em Robots** - NilbinSec | **Black Badge Raffle TCG** - Sonicos | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 1:00 PM | Hamster | Coating your PCBs | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| **Sat 8/9** | 2:00 PM | vynra | "Making SAOs for Fun and No Profit" | **Black Badge Raffle TCG** - Sonicos |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| **Sat 8/9** | 2:30 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 3:00 PM | BigTaro | So you want to make a badge? Badge Creation 101, from SAO to full #badgelife | **Laser\* Tag Badge** - dani.pink |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 2:00 PM | GhostGlitch | "Making SAOs for Fun and No Profit" | **Black Badge Raffle TCG** - Sonicos |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
+| **Sat 8/9** | 2:30 PM |  |  | **NeoSword** - Wrickert |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 3:00 PM | BigTaro | So you want to make a badge? Badge Creation 101, from SAO to full #badgelife |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | CREATOR STAGE - Badgemaker Panel |  |  | Wrickert | Muzzle |  | ReanimationXP |
