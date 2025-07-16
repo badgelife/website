@@ -42,7 +42,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **SATURDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Sat 8/9** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) |  |  |  | ReanimationXP |
 | **Sat 8/9** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 10:00 AM |  |  | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 10:00 AM | Frozencesium | Supply Chain Mismanagement:  How to embarrass yourself on your first project | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 10:30 AM |  |  | **Laser\* Tag Badge** - dani.pink |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 11:00 AM | Gater_Byte | Darknet-NG: Mesh Communications with your Community | **Hack 'em Crack 'em Robots** - NilbinSec | **Black Badge Raffle TCG** - Sonicos | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
