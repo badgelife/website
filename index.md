@@ -44,7 +44,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 10:00 AM |  |  | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 10:30 AM |  |  | **Laser\* Tag Badge** - dani.pink |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 11:00 AM | Gater_Byte | Changing of the Guard: The Evolution of DC Darknet Badges | **Hack 'em Crack 'em Robots** - NilbinSec | **Black Badge Raffle TCG** - Sonicos | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
+| **Sat 8/9** | 11:00 AM | Gater_Byte | Darknet-NG: Mesh Communications with your Community | **Hack 'em Crack 'em Robots** - NilbinSec | **Black Badge Raffle TCG** - Sonicos | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
 | **Sat 8/9** | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 12:00 PM | Blenster | KiCAD Demo |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Sat 8/9** | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
