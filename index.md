@@ -22,7 +22,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **FRIDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Fri 8/8** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda |  |  | ReanimationXP |
 | **Fri 8/8** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda | Fluxfluxflux |  | ReanimationXP |
-| **Fri 8/8** | 10:00 AM |  |  | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Panda | Fluxfluxflux |  | ReanimationXP |
+| **Fri 8/8** | 10:00 AM | Heal | **Defense Against The Dark Arcs: Teaching kids to create magic** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Panda | Fluxfluxflux |  | ReanimationXP |
 | **Fri 8/8** | 10:30 AM |  |  | **GigaGeiger** - Penzz | **Masonic33 Badge** - Heal-Hak4Kidz | Panda | Fluxfluxflux |  | ReanimationXP |
 | **Fri 8/8** | 11:00 AM | Hamster | **Panelizing PCBs: It's Exciting I Swear** | **Black Badge Raffle TCG** - Sonicos |  | ozma.of.oz |  | Fluxfluxflux | ReanimationXP |
 | **Fri 8/8** | 11:30 AM |  |  | **Submarine Badge/FrogStar Badge/FightDystopia Badge** - BigTaro |  | ozma.of.oz |  | Fluxfluxflux | ReanimationXP |
