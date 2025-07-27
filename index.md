@@ -64,9 +64,9 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sun 8/10** | 9:30 AM | Set Up |  |  | ozma.of.oz | Heal-Hak4Kidz |  |  | ReanimationXP |
 | **Sun 8/10** | 10:00 AM |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | Acetolyne | ReanimationXP |
 | **Sun 8/10** | 10:30 AM |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 11:00 AM | beckettcat | Chip Design Presentation |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
+| **Sun 8/10** | 11:00 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
 | **Sun 8/10** | 11:30 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 12:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
