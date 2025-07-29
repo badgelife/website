@@ -54,6 +54,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 2:30 PM |  |  | **NeoSword** - Wrickert |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 3:00 PM | BigTaro | **So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | **3:45 PM** | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  |  |  |  |  |
 | **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 5:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
