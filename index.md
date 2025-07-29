@@ -56,7 +56,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 5:00 PM |  |  | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 5:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 5:30 PM |  |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **SUNDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -66,7 +66,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sun 8/10** | 10:30 AM |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | Acetolyne | ReanimationXP |
 | **Sun 8/10** | 11:00 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
 | **Sun 8/10** | 11:30 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 12:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 1:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
