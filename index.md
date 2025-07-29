@@ -32,12 +32,12 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Fri 8/8** | 1:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 2:00 PM |  |  | **Black Badge Raffle TCG - Sonicos** | **Laser\* Tag Badge** - dani.pink | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 2:30 PM |  |  | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | Trivia | **Hack 'em Crack 'em Robots** - NilbinSec |  | hamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | Trivia |  |  | hamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | Trivia | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | Trivia |  |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | Trivia | **GigaGeiger** - Penzz |  |  | Trc3r42 |  | ReanimationXP |
+| **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | **Trivia** | **Hack 'em Crack 'em Robots** - NilbinSec |  | hamster | fg |  | ReanimationXP |
+| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | **Trivia** | **Rust Badge** - Alee97422 |  | hamster | fg |  | ReanimationXP |
+| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | **Trivia** |  |  | Penzz | Penzilzz |  | ReanimationXP |
+| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | **Trivia** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzilzz |  | ReanimationXP |
+| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | **Trivia** |  |  | Penzz | Penzilzz |  | ReanimationXP |
+| **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | **Trivia** | **GigaGeiger** - Penzz |  |  | Trc3r42 |  | ReanimationXP |
 | **Fri 8/8** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  |  | Trc3r42 |  | ReanimationXP |
 | **SATURDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Sat 8/9** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) |  |  |  | ReanimationXP |
