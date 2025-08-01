@@ -17,6 +17,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | Date | Time | Speaker/Host | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **THURSDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Thurs 8/7** | 11:00 AM - 2:00 PM | (Not Open To Humans) | (Not Open To Humans) | **EFF Badge Drop in Room W207** | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
 | **Thurs 8/7** | 3:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
 | **Thurs 8/7** | 5:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Post Load-In |  |  |  |
 | **FRIDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
