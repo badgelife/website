@@ -30,7 +30,7 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Fri 8/8** | 12:00 PM | Lipo | Z80 Badge Talk |  |  | ozma.of.oz |  |  | ReanimationXP |
 | **Fri 8/8** | 12:30 PM |  |  |  |  | ozma.of.oz |  |  | ReanimationXP |
 | **Fri 8/8** | 1:00 PM |  |  | **NeoSword** - Wrickert |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 1:30 PM |  |  | **The Hacker Pager** - Exploitee.rs |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
+| **Fri 8/8** | 1:30 PM | Panda | **Making Of The Arcanum Gospel Book Badge** | **The Hacker Pager** - Exploitee.rs |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 2:00 PM |  |  | **Black Badge Raffle TCG - Sonicos** | **Laser\* Tag Badge** - dani.pink | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 2:30 PM |  |  | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
 | **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | **Trivia** | **Hack 'em Crack 'em Robots** - NilbinSec |  | hamster | fg |  | ReanimationXP |
