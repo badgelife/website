@@ -53,13 +53,14 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
 | **Sat 8/9** | 2:00 PM | GhostGlitch | **Making SAOs for Fun and No Profit** | **Black Badge Raffle TCG** - Sonicos |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
 | **Sat 8/9** | 2:30 PM |  |  | **NeoSword** - Wrickert |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 3:00 PM | BigTaro | **So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | **3:45 PM** | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  |  |  |  |  |
 | **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** | **The Hacker Pager** - Exploitee.rs |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 5:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 5:30 PM |  |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | **5:15 PM** | BigTaro | **CREATOR STAGE 1 (Rm233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 5:30 PM | BigTaro | **CREATOR STAGE 1 (Rm233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **SUNDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Sun 8/10** | 9:00 AM | Set Up |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | ReanimationXP |
