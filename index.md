@@ -127,7 +127,7 @@ We’re always looking for new members to join our vibrant community. Whether yo
 
 ![Badgelife Discord](assets/images/BadgeMakers-Fixed.png)
 
-### 🎉 Badgelife Community Sponsors 2025
+## 🎉 Badgelife Community Sponsors 2025
 Thank you so much to our incredible Community sponsors!
 - **Acetolyne** donated $500!
 - **Dani.Pink** donated $100!
