@@ -12,7 +12,7 @@ Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be
 
 
 ## Village / Community Schedule:
-All events not labled **CREATOR STAGE** take place in the #Badgelife Community area.
+All events not labled **CREATOR STAGE or COMMUNITY STAGE** take place in the #Badgelife Community area. Also, be sure to thank our 2025 Village Sponsors at the bottom of this page!
 
 | Date | Time | Speaker/Host | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -56,11 +56,11 @@ All events not labled **CREATOR STAGE** take place in the #Badgelife Community a
 | **Sat 8/9** | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
 | **Sat 8/9** | **3:45 PM** | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  |  |  |  |  |
-| **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** | **The Hacker Pager** - Exploitee.rs |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **CREATOR STAGE - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **COMMUNITY STAGE (ExHall W 4 C105) - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** | **The Hacker Pager** - Exploitee.rs |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
+| **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **COMMUNITY STAGE (ExHall W 4 C105) - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 5:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | **5:15 PM** | BigTaro | **CREATOR STAGE 1 (Rm233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 5:30 PM | BigTaro | **CREATOR STAGE 1 (Rm233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | **5:15 PM** | BigTaro | **CREATOR STAGE 1 (Rm 233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
+| **Sat 8/9** | 5:30 PM | BigTaro | **CREATOR STAGE 1 (Rm 233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **Sat 8/9** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
 | **SUNDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Sun 8/10** | 9:00 AM | Set Up |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | ReanimationXP |
@@ -107,8 +107,10 @@ Access essential resources to support your badge-making:
 ### 🛠 Contribute
 
 Join our community and contribute:
-- **Join Discussions:** Join the discords and participate in conversations about badge projects and concepts.
+- **Join Discussions:** Join the Discord and participate in conversations about badge projects and concepts.
 - **Submit Your Badge:** Have a badge you'd like to add? Submit a pull request with source code, schematics, or links to badge repos. Contribution instructions are available [here](https://github.com/badgelife/website).
+
+Badg
 
 ## Latest Blog Posts
 
@@ -124,3 +126,8 @@ We’re always looking for new members to join our vibrant community. Whether yo
 - **[Join the BadgeMakers Discord](https://discord.gg/R4jGhTqJ3J)**
 
 ![Badgelife Discord](assets/images/BadgeMakers-Fixed.png)
+
+### 🎉 Badgelife Community Sponsors 2025
+Thank you so much to our incredible Community sponsors!
+- **Acetolyne** donated $500!
+- **Dani.Pink** donated $100!
