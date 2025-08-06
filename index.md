@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-![Badgelife Banner](assets/images/BadgeMakersBanner.png)
+![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
 
 # Welcome to BadgeLife!
 Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Community (aka Village) Schedule.
@@ -125,7 +125,7 @@ Catch up on recent articles and updates:
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, there’s a place for you here:
 - **[Join the BadgeMakers Discord](https://discord.gg/R4jGhTqJ3J)**
 
-![Badgelife Discord](assets/images/BadgeMakers-Fixed.png)
+![Badgelife Discord](assets/images/BadgelifeNewSquare.png)
 
 ## 🎉 Badgelife Community Sponsors 2025
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
