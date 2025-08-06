@@ -1,0 +1,34 @@
+## Stay Updated
+
+### 🆕 New and Upcoming Badges
+
+Stay on top of the latest badge innovations in our [New Badges](archive/dc32/dc32) section:
+- **Announcements:** Information on new and upcoming badges.
+- **Submit Your Badge:** Share your DC32 badge information using the submission form [here](https://t.co/UhN5iChYvH) (credit: K4rm4ness).
+- **Curated Lists:** View the latest curated list [here](https://t.co/JUbgMb3Lze) (credit: K4rm4ness).
+
+Check out the [DC32 Badges](archive/dc32/dc32) page for more details.
+
+## Maker Resources
+
+Access essential resources to support your badge-making:
+- **📝 Unofficial Specifications:** Detailed specs developed and within by our community.
+- **📚 Guides & Best Practices:** Practical guides and tips shared by experienced makers.
+
+## Get Involved
+
+### 🛠 Contribute
+
+Join our community and contribute:
+- **Join Discussions:** Join the Discord and participate in conversations about badge projects and concepts.
+- **Submit Your Badge:** Have a badge you'd like to add? Submit a pull request with source code, schematics, or links to badge repos. Contribution instructions are available [here](https://github.com/badgelife/website).
+
+Badg
+
+## Latest Blog Posts
+
+Catch up on recent articles and updates:
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+{% endfor %}
