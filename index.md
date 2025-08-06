@@ -129,7 +129,7 @@ We’re always looking for new members to join our vibrant community. Whether yo
 
 ## 🎉 Badgelife Community Sponsors 2025
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
-- **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badelife Community efforts! I'm absolutely speechless!!
+- **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badgelife Community efforts! I'm absolutely speechless!!
 - **The Car Hacking Village** donated **$1500** in party funds! Wowza!!
 - **Acetolyne** donated **$500**!
 - **Vortex1** donated **$150** (and is one of our youngest Badgemakers!)
