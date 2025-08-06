@@ -71,10 +71,9 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
 | **Sun 8/10** | 11:30 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
 | **Sun 8/10** | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
 | **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| **Sun 8/10** | 1:00 PM | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| **Sun 8/10** | 1:30 PM | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** |  | **FIN** |  |  |  |  |  |  |  |
-
+| **Sun 8/10** | **2:00 PM** | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
+| **Sun 8/10** | **2:10 PM** | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
+| **Sun 8/10** | ? | **FIN** |  |  |  |  |  |  |  |
 
 ### 📚 Explore The Badge Archive
 
@@ -85,41 +84,6 @@ Discover detailed information about a wide range of electronic badges:
 
 Visit the [Badge Archive](/archive/archive) to explore more.
 
-## Stay Updated
-
-### 🆕 New and Upcoming Badges
-
-Stay on top of the latest badge innovations in our [New Badges](archive/dc32/dc32) section:
-- **Announcements:** Information on new and upcoming badges.
-- **Submit Your Badge:** Share your DC32 badge information using the submission form [here](https://t.co/UhN5iChYvH) (credit: K4rm4ness).
-- **Curated Lists:** View the latest curated list [here](https://t.co/JUbgMb3Lze) (credit: K4rm4ness).
-
-Check out the [DC32 Badges](archive/dc32/dc32) page for more details.
-
-## Maker Resources
-
-Access essential resources to support your badge-making:
-- **📝 Unofficial Specifications:** Detailed specs developed and within by our community.
-- **📚 Guides & Best Practices:** Practical guides and tips shared by experienced makers.
-
-## Get Involved
-
-### 🛠 Contribute
-
-Join our community and contribute:
-- **Join Discussions:** Join the Discord and participate in conversations about badge projects and concepts.
-- **Submit Your Badge:** Have a badge you'd like to add? Submit a pull request with source code, schematics, or links to badge repos. Contribution instructions are available [here](https://github.com/badgelife/website).
-
-Badg
-
-## Latest Blog Posts
-
-Catch up on recent articles and updates:
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
-
 ## Join Us
 
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, there’s a place for you here:
@@ -127,10 +91,15 @@ We’re always looking for new members to join our vibrant community. Whether yo
 
 ![Badgelife Discord](assets/images/BadgelifeNewSquare.png)
 
-## 🎉 Badgelife Community Sponsors 2025
+## 🎉 Our 2025 Badgelife Community Sponsors
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
-- **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badgelife Community efforts! I'm absolutely speechless!!
-- **The Car Hacking Village** donated **$1500** in party funds! Wowza!!
-- **Acetolyne** donated **$500**!
-- **Vortex1** donated **$150** (and is one of our youngest Badgemakers!)
+
 - **Dani.Pink** donated **$100**!
+- **Vortex1** donated **$150** (and is one of our youngest Badgemakers!)
+- **Acetolyne** donated **$500**!
+- **The Car Hacking Village** donated **$1500** in party funds! Wowza!!
+- **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badgelife Community efforts! I'm absolutely speechless!!
+
+
+
+
