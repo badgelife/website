@@ -1,0 +1,27 @@
+---
+# Front matter tells Jekyll to run the Sass pipeline
+---
+
+/* 1. Bring in the theme’s default stylesheet */
+@import "just-the-docs";
+
+/* 2. Your existing class (copy from main.css and delete main.css afterwards) */
+.customtable {
+  /*border: 2px solid #444;*/
+  border-collapse: collapse;
+  width: 100%;
+  /*text-overflow: none;*/
+}
+
+.customtable th,
+.customtable td {
+  /*border: 1px solid #444;
+  padding: .4rem .6rem;*/
+  background-color: red;
+  white-space: nowrap;
+}
+
+/* 3. Make every <table> automatically inherit that class */
+table { @extend .customtable; }
+/* to do individual tables, comment the line above, and after each table, add {:.customtable} */
+/* alternative: create local _layouts/default.html; jekyll will use this and override theme */
