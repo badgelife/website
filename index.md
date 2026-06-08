@@ -7,7 +7,7 @@ nav_order: 1
 ![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
 
 # Welcome to BadgeLife!
-Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Community (aka Village) Schedule.
+Welcome to **BadgeLife**, the home for the #Badgelife community! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Community (aka Village) Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.
 
 ## Village / Community Schedule:
 All events listed here take place in the community/village unless specified **CREATOR STAGE or COMMUNITY STAGE**. Note that "Community Stage" is confusingly **NOT** located in our community/village! It is near the village at **Exhibition Hall W 4 C105** on the map, near several communities and is labeled
