@@ -2,8 +2,8 @@
 # Front matter tells Jekyll to run the Sass pipeline
 ---
 
-/* 1. Bring in the theme’s default stylesheet */
-@import "just-the-docs"; #imported as gem, does not need extension
+/* 1. Bring in the theme’s default stylesheet 
+@import "just-the-docs"; copilot suggested commenting this -RXP*/
 
 /* 2. Your existing class (copy from main.css and delete main.css afterwards) */
 .customtable {
