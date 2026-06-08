@@ -3,7 +3,7 @@
 ---
 
 /* 1. Bring in the theme’s default stylesheet */
-@import "just-the-docs.scss";
+@import "just-the-docs"; #imported as gem, does not need extension
 
 /* 2. Your existing class (copy from main.css and delete main.css afterwards) */
 .customtable {
