@@ -14,66 +14,156 @@ All events listed here take place in the community/village unless specified **CR
 
 Please be sure to thank our 2025 Community Sponsors at the bottom of this page! They really came through and are helping us fund both this year and years to come!
 
-| Date | Time | Speaker/Host | Event Title | Badge Drop Table 1 | Badge Drop Table 2 | Volunteer - Museum | Volunteer - SAO Wall | Volunteer - Gopher | Creator POC |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **THURSDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Thurs 8/7** | 11:00 AM - 2:00 PM | (Not Open To Humans) | (Not Open To Humans) | **EFF Badge Drop in Room W207** | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
-| **Thurs 8/7** | 3:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Village Load-In | Wrickert | True | ReanimationXP |
-| **Thurs 8/7** | 5:00 PM | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Post Load-In |  |  |  |
-| **FRIDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Fri 8/8** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda |  |  | ReanimationXP |
-| **Fri 8/8** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | Panda | Fluxfluxflux |  | ReanimationXP |
-| **Fri 8/8** | 10:00 AM | Heal | **Defense Against The Dark Arcs: Teaching kids to create magic** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Panda | Fluxfluxflux |  | ReanimationXP |
-| **Fri 8/8** | 10:30 AM |  |  | **GigaGeiger** - Penzz | **Masonic33 Badge** - Heal-Hak4Kidz | Panda | Fluxfluxflux |  | ReanimationXP |
-| **Fri 8/8** | 11:00 AM | Hamster | **Panelizing PCBs: It's Exciting I Swear** | **Black Badge Raffle TCG** - Sonicos |  | ozma.of.oz |  | Fluxfluxflux | ReanimationXP |
-| **Fri 8/8** | 11:30 AM |  |  | **Submarine Badge/FrogStar Badge/FightDystopia Badge** - BigTaro |  | ozma.of.oz |  | Fluxfluxflux | ReanimationXP |
-| **Fri 8/8** | 12:00 PM | Lipo | Z80 Badge Talk |  |  | ozma.of.oz |  |  | ReanimationXP |
-| **Fri 8/8** | 12:30 PM |  |  |  |  | ozma.of.oz |  |  | ReanimationXP |
-| **Fri 8/8** | 1:00 PM |  |  | **NeoSword** - Wrickert |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 1:30 PM | Panda | **Making Of The Arcanum Gospel Book Badge** | **The Hacker Pager** - Exploitee.rs |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 2:00 PM |  | **The #Badgelife Meet, Greet, and Trade Party! (Open to Public, Formerly Hacker Flairgrounds)** | **Black Badge Raffle TCG - Sonicos** | **Laser\* Tag Badge** - dani.pink | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 2:30 PM |  | **The #Badgelife Meet, Greet, and Trade Party! (Open to Public, Formerly Hacker Flairgrounds)** | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Fri 8/8** | 3:00 PM | Lipo & d1stinctmind | **Trivia** | **Hack 'em Crack 'em Robots** - NilbinSec |  | hamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 3:30 PM | Lipo & d1stinctmind | **Trivia** | **Rust Badge** - Alee97422 |  | hamster | fg |  | ReanimationXP |
-| **Fri 8/8** | 4:00 PM | Lipo & d1stinctmind | **Trivia** |  |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 4:30 PM | Lipo & d1stinctmind | **Trivia** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 5:00 PM | Lipo & d1stinctmind | **Trivia** |  |  | Penzz | Penzilzz |  | ReanimationXP |
-| **Fri 8/8** | 5:30 PM | Lipo & d1stinctmind | **Trivia** | **GigaGeiger** - Penzz |  |  | Trc3r42 |  | ReanimationXP |
-| **Fri 8/8** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  |  | Trc3r42 |  | ReanimationXP |
-| **SATURDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Sat 8/9** | 9:00 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) |  |  |  | ReanimationXP |
-| **Sat 8/9** | 9:30 AM | Set Up | (Not Open To Humans) | (Not Open To Humans) | (Not Open To Humans) | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 10:00 AM | Frozencesium | **Supply Chain Mismanagement:  How to embarrass yourself on your first project** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 10:30 AM |  |  | **Laser\* Tag Badge** - dani.pink |  | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 11:00 AM | Gater_Byte | **Darknet-NG: Mesh Communications with your Community** | **Hack 'em Crack 'em Robots** - NilbinSec | **Black Badge Raffle TCG** - Sonicos | MakeItHackin | Panda | drsheldoncooper | ReanimationXP |
-| **Sat 8/9** | 11:30 AM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Sat 8/9** | 12:00 PM | Blenster | **Going from Breadboard to PCB with KiCAD** |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Sat 8/9** | 12:30 PM |  |  |  |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Sat 8/9** | 1:00 PM | Panda | **Coating your PCBs** | **Shitty Kitty v2** - Lipo |  | Nferno | .Kbyr. | Spacebreakfast | ReanimationXP |
-| **Sat 8/9** | 1:30 PM |  |  |  |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| **Sat 8/9** | 2:00 PM | GhostGlitch | **Making SAOs for Fun and No Profit** | **Black Badge Raffle TCG** - Sonicos |  | Lipo | Fluxfluxflux | fg | ReanimationXP |
-| **Sat 8/9** | 2:30 PM |  |  | **NeoSword** - Wrickert |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 3:00 PM |  |  |  |  | Lipo | Fluxfluxflux | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 3:30 PM |  |  |  |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | **3:45 PM** | Bradan Lane, MakeItHackin, Panda | **COMMUNITIES STAGE (ExHall W 4 C105) - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  |  |  |  |  |
-| **Sat 8/9** | 4:00 PM | Bradan Lane, MakeItHackin, Panda | **COMMUNITIES STAGE (ExHall W 4 C105) - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** | **The Hacker Pager** - Exploitee.rs |  | Wrickert | Muzzle | Trc3r42 | ReanimationXP |
-| **Sat 8/9** | 4:30 PM | Bradan Lane, MakeItHackin, Panda | **COMMUNITIES STAGE (ExHall W 4 C105) - Badgelife Panel: Lessons from Years of Do’s, Don’ts, and Last-Minute Saves** |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 5:00 PM | Beans, & Kiwi | **Money for Nothing: Med Tech SBIR Grants are Easier than You Thought** | **SaO MANY SAOs** - Vortex1 / Coruscant Ventures |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | **5:15 PM** | BigTaro | **CREATOR STAGE 1 (Flr 2 Rm 233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 5:30 PM | BigTaro | **CREATOR STAGE 1 (Flr 2 Rm 233) So you want to make a badge? Badge Creation 101, from SAO to full #badgelife** |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **Sat 8/9** | 6:00 PM | Doors Closed / Put Community to Bed |  |  |  | Wrickert | Muzzle |  | ReanimationXP |
-| **SUNDAY** | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Sun 8/10** | 9:00 AM | Set Up |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | ReanimationXP |
-| **Sun 8/10** | 9:30 AM | Set Up |  |  | ozma.of.oz | Heal-Hak4Kidz |  |  | ReanimationXP |
-| **Sun 8/10** | 10:00 AM |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 10:30 AM |  |  |  | ozma.of.oz | Heal-Hak4Kidz |  | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 11:00 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 11:30 AM |  |  |  |  | Beckettcat | znjp | Acetolyne | ReanimationXP |
-| **Sun 8/10** | 12:00 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| **Sun 8/10** | 12:30 PM |  |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| **Sun 8/10** | **2:00 PM** | Doors Closed / Prep Loadout |  |  |  | Beckettcat | znjp |  | ReanimationXP |
-| **Sun 8/10** | **2:10 PM** | Loadout | (Not Open To Humans) |  |  | Wrickert | True |  | ReanimationXP |
-| **Sun 8/10** | ? | **FIN** |  |  |  |  |  |  |  |
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="2">Date</th>
+      <th rowspan="2">Time</th>
+      <th rowspan="2">Talk</th>
+      <th colspan="3">Badge Drops</th>
+      <th colspan="3">Volunteers</th>
+    </tr>
+    <tr>
+      <th>Drop 1</th>
+      <th>Drop 2</th>
+      <th>Drop 3</th>
+      <th>Badgelife Museum</th>
+      <th>Badge Genius Bar</th>
+      <th>General</th>
+    </tr>
+  </thead>
+  <tbody>
+
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <!-- THURSDAY — AUGUST 6 · LOAD-IN (NOT OPEN TO PUBLIC)        -->
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <tr>
+      <td colspan="9"><strong>THURSDAY — August 6 · Village Load-In</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>Thurs 8/6</strong></td>
+      <td>11:00 AM</td>
+      <td colspan="7"><em>Village Load-In — Not Open To Public</em></td>
+    </tr>
+    <tr>
+      <td>3:00 PM</td>
+      <td colspan="7"><em>Village Load-In (Continued)</em></td>
+    </tr>
+    <tr>
+      <td>5:00 PM</td>
+      <td colspan="7"><em>Post Load-In / Wrap</em></td>
+    </tr>
+
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <!-- FRIDAY — AUGUST 7                                          -->
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <tr>
+      <td colspan="9"><strong>FRIDAY — August 7</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="19"><strong>Fri 8/7</strong></td>
+      <td>9:00 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr>
+      <td>9:30 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr><td>10:00 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10:30 AM</td><td></td><td><strong>MalO SAO</strong> &mdash; ParallelLogic</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:00 AM</td><td></td><td><strong>ClipBoy Badge</strong> &mdash; Coruscant Productions</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong>Worldweaving Badge</strong> &mdash; BigTaro</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:30 PM</td><td></td><td><strong>lepi-labs SAOs</strong></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:30 PM</td><td></td><td><strong>hfsdr badge</strong> &mdash; Hackin7</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Laser* Tag DS Badge</strong> &mdash; dani.palm</td><td><strong>Monorail badge with sphere and high roller SAO</strong> &mdash; _fladnag</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:00 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:30 PM</td><td></td><td><strong>Shitty Kitty v2</strong> &mdash; Uberfoo Industries</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr>
+      <td>6:00 PM</td>
+      <td colspan="7"><em>Doors Closed</em></td>
+    </tr>
+
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <!-- SATURDAY — AUGUST 8                                        -->
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <tr>
+      <td colspan="9"><strong>SATURDAY — August 8</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="19"><strong>Sat 8/8</strong></td>
+      <td>9:00 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr>
+      <td>9:30 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr><td>10:00 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:00 AM</td><td><strong>Making Badges Glow Different: Gemstones, Acrylic, and the Wicked Art of Light &amp; Motion</strong> &mdash; Panda</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:30 AM</td><td></td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:00 PM</td><td><strong>Pick N Place at Home: Not Just The Corporations</strong> &mdash; hamster</td><td><strong>hfsdr badge</strong> &mdash; Hackin7</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:30 PM</td><td></td><td><strong>ClipBoy Badge</strong> &mdash; Coruscant Productions</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:00 PM</td><td><strong>Mystery Badge Talk</strong> &mdash; p0lix</td><td><strong>Worldweaving Badge</strong> &mdash; BigTaro</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:30 PM</td><td></td><td><strong>MalO SAO</strong> &mdash; ParallelLogic</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2:00 PM</td><td><strong>Money for Nuffin! Your Badge is Good Enough</strong> &mdash; beckettcat</td><td><strong>Shitty Kitty v2</strong> &mdash; Uberfoo Industries</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>2:30 PM</td><td></td><td><strong>lepi-labs SAOs</strong></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3:00 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong>Laser* Tag DS Badge</strong> &mdash; dani.palm</td><td><strong>Monorail badge with sphere and high roller SAO</strong> &mdash; _fladnag</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3:30 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>5:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr>
+      <td>6:00 PM</td>
+      <td colspan="7"><em>Doors Closed</em></td>
+    </tr>
+
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <!-- SUNDAY — AUGUST 9 · CLOSES AT 2PM                         -->
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <tr>
+      <td colspan="9"><strong>SUNDAY — August 9</strong></td>
+    </tr>
+    <tr>
+      <td rowspan="13"><strong>Sun 8/9</strong></td>
+      <td>9:00 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr>
+      <td>9:30 AM</td>
+      <td colspan="7"><em>Set Up — Not Open To Public</em></td>
+    </tr>
+    <tr><td>10:00 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr>
+      <td>2:00 PM</td>
+      <td colspan="7"><em>Doors Closed — Prep Loadout</em></td>
+    </tr>
+    <tr>
+      <td>2:10 PM</td>
+      <td colspan="7"><em>Loadout — Not Open To Public</em></td>
+    </tr>
+    <tr>
+      <td colspan="8"><strong>FIN</strong></td>
+    </tr>
+
+  </tbody>
+</table>
+
 
 ### 📚 Explore The Badge Archive
 
