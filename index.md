@@ -35,6 +35,18 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
   <tbody>
 
     <!-- ══════════════════════════════════════════════════════════ -->
+    <!-- WEDNESDAY — AUGUST 5 · EARLY LOAD-IN (NOT OPEN TO PUBLIC) -->
+    <!-- ══════════════════════════════════════════════════════════ -->
+    <tr>
+      <td colspan="9"><strong>WEDNESDAY — August 5 · Early Load-In</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Wed 8/5</strong></td>
+      <td>2:30 PM</td>
+      <td colspan="7"><em>Village Early Load-In — Not Open To Public</em></td>
+    </tr>
+
+    <!-- ══════════════════════════════════════════════════════════ -->
     <!-- THURSDAY — AUGUST 6 · LOAD-IN (NOT OPEN TO PUBLIC)        -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
@@ -42,7 +54,7 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     </tr>
     <tr>
       <td rowspan="3"><strong>Thurs 8/6</strong></td>
-      <td>11:00 AM</td>
+      <td>10:00 AM</td>
       <td colspan="7"><em>Village Load-In — Not Open To Public</em></td>
     </tr>
     <tr>
@@ -70,19 +82,19 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
       <td colspan="7"><em>Set Up — Not Open To Public</em></td>
     </tr>
     <tr><td>10:00 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>10:30 AM</td><td></td><td><strong>MalO SAO</strong> &mdash; ParallelLogic</td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>11:00 AM</td><td></td><td><strong>ClipBoy Badge</strong> &mdash; Coruscant Productions</td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>11:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong>Worldweaving Badge</strong> &mdash; BigTaro</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>10:30 AM</td><td></td><td><strong>MalO SAO</strong> &mdash; ParallelLogic</td><td><strong>Star Trek SAO Phaser v2.2</strong> &mdash; heal</td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:00 AM</td><td><strong>Resurrecting Lost Badges: The Dark Art Of Badgelife Necromancy</strong> &mdash; LqqtOut &amp; Ozma</td><td><strong>ClipBoy Badge</strong> &mdash; Coruscant Productions</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:30 AM</td><td></td><td><strong>Not Just a Crosswalk SAO/No Ice SAO</strong> &mdash; Caelyb</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong>Worldweaving Badge</strong> &mdash; BigTaro</td><td><strong>Celestial Wayfinder Badge</strong> &mdash; Wyrd Wyrks</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong>lepi-labs SAOs</strong></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>1:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>1:00 PM</td><td><strong>The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>1:30 PM</td><td></td><td><strong>hfsdr badge</strong> &mdash; Hackin7</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Laser* Tag DS Badge</strong> &mdash; dani.palm</td><td><strong>Monorail badge with sphere and high roller SAO</strong> &mdash; _fladnag</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>4:00 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>4:30 PM</td><td></td><td><strong>Shitty Kitty v2</strong> &mdash; Uberfoo Industries</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:30 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td><strong>Shitty Kitty v2</strong> &mdash; Uberfoo Industries</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>5:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>5:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr>
@@ -107,7 +119,7 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     </tr>
     <tr><td>10:00 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>11:00 AM</td><td><strong>Making Badges Glow Different: Gemstones, Acrylic, and the Wicked Art of Light &amp; Motion</strong> &mdash; Panda</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>11:00 AM</td><td><strong>From Pwnagotchi to Sovereign Silicon: The Case for Hackable AI</strong> &mdash; evilbotnet</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td><strong>Star Trek SAO Phaser v2.2</strong> &mdash; heal</td><td></td><td></td><td></td><td></td></tr>
     <tr><td>11:30 AM</td><td></td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>12:00 PM</td><td><strong>Pick N Place at Home: Not Just The Corporations</strong> &mdash; hamster</td><td><strong>hfsdr badge</strong> &mdash; Hackin7</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong>ClipBoy Badge</strong> &mdash; Coruscant Productions</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -116,9 +128,9 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <tr><td>2:00 PM</td><td><strong>Money for Nuffin! Your Badge is Good Enough</strong> &mdash; beckettcat</td><td><strong>Shitty Kitty v2</strong> &mdash; Uberfoo Industries</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>2:30 PM</td><td></td><td><strong>lepi-labs SAOs</strong></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>3:00 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong>Laser* Tag DS Badge</strong> &mdash; dani.palm</td><td><strong>Monorail badge with sphere and high roller SAO</strong> &mdash; _fladnag</td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>3:30 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>3:30 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong>Celestial Wayfinder Badge</strong> &mdash; Wyrd Wyrks</td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>4:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>4:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>4:30 PM</td><td><strong>Making Badges Glow Different: Gemstones, Acrylic, and the Wicked Art of Light &amp; Motion</strong> &mdash; Panda</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>5:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>5:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr>
@@ -133,7 +145,7 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
       <td colspan="9"><strong>SUNDAY — August 9</strong></td>
     </tr>
     <tr>
-      <td rowspan="13"><strong>Sun 8/9</strong></td>
+      <td rowspan="11"><strong>Sun 8/9</strong></td>
       <td>9:00 AM</td>
       <td colspan="7"><em>Set Up — Not Open To Public</em></td>
     </tr>
@@ -145,17 +157,15 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>11:30 AM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>12:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+    <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>12:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>1:00 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>1:30 PM</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
     <tr>
-      <td>2:00 PM</td>
-      <td colspan="7"><em>Doors Closed — Prep Loadout</em></td>
+      <td>1:00 PM</td>
+      <td colspan="7"><em>Doors Closed &mdash; Prep Loadout</em></td>
     </tr>
     <tr>
-      <td>2:10 PM</td>
-      <td colspan="7"><em>Loadout — Not Open To Public</em></td>
+      <td>1:30 PM</td>
+      <td colspan="7"><em>Loadout &mdash; Not Open To Public</em></td>
     </tr>
     <tr>
       <td colspan="8"><strong>FIN</strong></td>
@@ -163,6 +173,7 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
 
   </tbody>
 </table>
+
 
 
 ### 📚 Explore The Badge Archive
