@@ -14,7 +14,7 @@ All events listed here take place in the village
 
 Please be sure to thank our 2026 Village Sponsors at the bottom of this page! They really came through and are helping us fund both this year and years to come!
 
-<table border="1">
+<table border="1" style="text-align: center;">
   <thead>
     <tr>
       <th rowspan="2">Time</th>
@@ -200,11 +200,12 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
       <td colspan="6"><em>Loadout &mdash; Not Open To Public</em></td>
     </tr>
     <tr>
-      <td colspan="7"><strong>FIN</strong></td>
+      <td colspan="7" style="text-align: center;"><strong>FIN</strong></td>
     </tr>
 
   </tbody>
 </table>
+
 
 
 
