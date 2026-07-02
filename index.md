@@ -17,7 +17,6 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
 <table border="1">
   <thead>
     <tr>
-      <th rowspan="2">Date</th>
       <th rowspan="2">Time</th>
       <th rowspan="2">Talk</th>
       <th colspan="3">Badge Drops</th>
@@ -38,10 +37,9 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <!-- WEDNESDAY — AUGUST 5 · EARLY LOAD-IN (NOT OPEN TO PUBLIC) -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
-      <td colspan="9"><strong>WEDNESDAY — August 5 · Early Load-In</strong></td>
+      <td colspan="8"><strong>WEDNESDAY — August 5 · Early Load-In</strong></td>
     </tr>
     <tr>
-      <td><strong>Wed 8/5</strong></td>
       <td>2:30 PM</td>
       <td colspan="7"><em>Village Early Load-In — Not Open To Public</em></td>
     </tr>
@@ -50,10 +48,9 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <!-- THURSDAY — AUGUST 6 · LOAD-IN (NOT OPEN TO PUBLIC)        -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
-      <td colspan="9"><strong>THURSDAY — August 6 · Village Load-In</strong></td>
+      <td colspan="8"><strong>THURSDAY — August 6 · Village Load-In</strong></td>
     </tr>
     <tr>
-      <td rowspan="3"><strong>Thurs 8/6</strong></td>
       <td>10:00 AM</td>
       <td colspan="7"><em>Village Load-In — Not Open To Public</em></td>
     </tr>
@@ -70,10 +67,23 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <!-- FRIDAY — AUGUST 7                                          -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
-      <td colspan="9"><strong>FRIDAY — August 7</strong></td>
+      <td colspan="8"><strong>FRIDAY — August 7</strong></td>
     </tr>
     <tr>
-      <td rowspan="19"><strong>Fri 8/7</strong></td>
+      <th rowspan="2">Time</th>
+      <th rowspan="2">Talk</th>
+      <th colspan="3">Badge Drops</th>
+      <th colspan="3">Volunteers</th>
+    </tr>
+    <tr>
+      <th>Drop 1</th>
+      <th>Drop 2</th>
+      <th>Drop 3</th>
+      <th>Badgelife Museum</th>
+      <th>Badge Genius Bar</th>
+      <th>General</th>
+    </tr>
+    <tr>
       <td>9:00 AM</td>
       <td colspan="7"><em>Set Up — Not Open To Public</em></td>
     </tr>
@@ -106,10 +116,23 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <!-- SATURDAY — AUGUST 8                                        -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
-      <td colspan="9"><strong>SATURDAY — August 8</strong></td>
+      <td colspan="8"><strong>SATURDAY — August 8</strong></td>
     </tr>
     <tr>
-      <td rowspan="19"><strong>Sat 8/8</strong></td>
+      <th rowspan="2">Time</th>
+      <th rowspan="2">Talk</th>
+      <th colspan="3">Badge Drops</th>
+      <th colspan="3">Volunteers</th>
+    </tr>
+    <tr>
+      <th>Drop 1</th>
+      <th>Drop 2</th>
+      <th>Drop 3</th>
+      <th>Badgelife Museum</th>
+      <th>Badge Genius Bar</th>
+      <th>General</th>
+    </tr>
+    <tr>
       <td>9:00 AM</td>
       <td colspan="7"><em>Set Up — Not Open To Public</em></td>
     </tr>
@@ -142,10 +165,23 @@ Please be sure to thank our 2025 Community Sponsors at the bottom of this page! 
     <!-- SUNDAY — AUGUST 9 · CLOSES AT 2PM                         -->
     <!-- ══════════════════════════════════════════════════════════ -->
     <tr>
-      <td colspan="9"><strong>SUNDAY — August 9</strong></td>
+      <td colspan="8"><strong>SUNDAY — August 9</strong></td>
     </tr>
     <tr>
-      <td rowspan="11"><strong>Sun 8/9</strong></td>
+      <th rowspan="2">Time</th>
+      <th rowspan="2">Talk</th>
+      <th colspan="3">Badge Drops</th>
+      <th colspan="3">Volunteers</th>
+    </tr>
+    <tr>
+      <th>Drop 1</th>
+      <th>Drop 2</th>
+      <th>Drop 3</th>
+      <th>Badgelife Museum</th>
+      <th>Badge Genius Bar</th>
+      <th>General</th>
+    </tr>
+    <tr>
       <td>9:00 AM</td>
       <td colspan="7"><em>Set Up — Not Open To Public</em></td>
     </tr>
