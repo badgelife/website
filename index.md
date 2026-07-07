@@ -17,6 +17,7 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
 
 
 
+
 <table border="1" style="text-align: center;">
   <thead>
     <tr>
@@ -101,7 +102,7 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
     <tr><td>1:00 PM</td><td><strong>The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>1:30 PM</td><td><strong>Laser* Tag: Playing with basic wireless networking for fun and graceful degradation</strong> &mdash; dani.pink</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
-    <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>The Whose Slide Is It Anyway 10 Year Anniversary Badge</strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
+    <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>4:00 PM</td><td></td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
@@ -152,7 +153,7 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
     <tr><td>2:30 PM</td><td></td><td><strong><a href="https://lepi-labs.com/shop">lepi-labs SAOs</a></strong></td><td></td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
     <tr><td>3:00 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
     <tr><td>3:30 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong><a href="https://wyrdwyrks.com/celestial-wayfinder/">Celestial Wayfinder Badge</a></strong> &mdash; Wyrd Wyrks</td><td></td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
-    <tr><td>4:00 PM</td><td></td><td><strong>The Whose Slide Is It Anyway 10 Year Anniversary Badge</strong> &mdash; rand0h</td><td></td><td>Zedish</td><td>Lipo</td><td>Vynra</td></tr>
+    <tr><td>4:00 PM</td><td></td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Zedish</td><td>Lipo</td><td>Vynra</td></tr>
     <tr><td>4:30 PM</td><td><strong>Making Badges Glow Different: Gemstones, Acrylic, and the Wicked Art of Light &amp; Motion</strong> &mdash; Panda</td><td></td><td></td><td>Zedish</td><td>Lipo</td><td>Vynra</td></tr>
     <tr><td>5:00 PM</td><td><strong>GreyMecha/Army: How we made 400+ badges with FPGAs</strong> &mdash; Hackin7</td><td></td><td></td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
     <tr><td>5:30 PM</td><td></td><td></td><td></td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
@@ -208,6 +209,7 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
 
   </tbody>
 </table>
+
 
 
 
