@@ -209,27 +209,27 @@ Please be sure to thank our 2026 Village Sponsors at the bottom of this page! Th
 
   </tbody>
 </table>
-
-
-
-
-
-
+  
+  
 ### 📚 Explore The Badge Archive
-
-Discover detailed information about a wide range of electronic badges:
+Soon, this space will house detailed information about the entire historical catalogue of electronic badges. It will include:
 - **Pictures:** High-quality images showcasing badge designs.
 - **Schematics:** Circuit diagrams and technical drawings.
 - **Source Code:** Firmware and software behind the badges.
-
-Visit the [Badge Archive](/archive/archive) to explore more.
-
+These will be accessible via the [Badge Archive](/archive/archive).
+  
+There's a few entries there right now, but in the meantime, why not check out @Smagtastic / @K4rm4ness's historical Badge Lists?  
+DC 30: https://docs.google.com/spreadsheets/d/1cu99HozImdjNqTEM8iFsNzNswNw5De0Oe_hax3ywZ2U/edit?usp=sharing  
+DC 31: https://docs.google.com/spreadsheets/d/1ll9GVWq1jELk79OyfdalMrgccdF3AGo2qEQIxnKsXdY/edit?usp=sharing  
+DC 32: https://docs.google.com/spreadsheets/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/edit?usp=sharing  
+DC 33: https://docs.google.com/spreadsheets/d/1_eJnHTbvm-uhvslkRayfEJ99Z5agVZCl1GPqbFqwMFg/edit?usp=sharing  
+DC 34: https://docs.google.com/spreadsheets/d/1wQ6J0tJiVCPgppxiPg_mM6mS6Il-jm3Ez1fj3a-7XRs/edit?usp=sharing  
+  
 ## Join Us
 
-We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, there’s a place for you here:
-- **[Join the BadgeMakers Discord](https://discord.gg/R4jGhTqJ3J)**
-
-![Badgelife Discord](assets/images/BadgelifeNewSquare.png)
+We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, as long as you're a creator, there’s a place for you here:
+- **Join us on the BadgeMakers Discord: https://discord (dot) gg (slash) R4jGhTqJ3J)**
+![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
 
 ## 🎉 Our 2025 Badgelife Community Sponsors
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
