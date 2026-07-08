@@ -7,13 +7,12 @@ nav_order: 1
 ![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
 
 # Welcome to BadgeLife!
-Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Village Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.
+Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Village Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.  
 
-## Village / Community Schedule:
-All events listed here take place in the village 
-
-Please be sure to thank our 2026 Village Sponsors at the bottom of this page! They really came through and are helping us fund both this year and years to come!
-
+Follow us on [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
+  
+## DC24 Village Schedule:
+All events listed here take place in the village. Most will be at our "silent disco" stage setup. Please be sure to thank our 2026 Village Sponsors at the bottom of this page! They really came through last year and are helping us fund this year as well!
 
 
 
