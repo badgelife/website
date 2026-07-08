@@ -11,7 +11,7 @@ Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be h
 
 Follow us on [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
   
-## DC24 Village Schedule:
+## DC34 Village Schedule:
 All events listed here take place in the village. Most will be at our "silent disco" stage setup. Please be sure to thank our 2026 Village Sponsors at the bottom of this page! They really came through last year and are helping us fund this year as well!
 
 
