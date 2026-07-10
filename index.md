@@ -98,11 +98,11 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>11:30 AM</td><td></td><td><strong><a href="https://ko-fi.com/caelybr/shop">Not Just a Crosswalk SAO/No Ice SAO</a></strong> &mdash; Caelyb</td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td></tr>
     <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td><strong><a href="https://wyrdwyrks.com/celestial-wayfinder/">Celestial Wayfinder Badge</a></strong> &mdash; Wyrd Wyrks</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong><a href="https://lepi-labs.com/shop">lepi-labs SAOs</a></strong></td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
-    <tr><td>1:00 PM</td><td><strong>The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
+    <tr><td>1:00 PM</td><td><strong>The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong><a href="https://uberflux.com/product/NS-SpectreSniffer">Spectre Sniffer</a></strong> — NilbinSec</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>1:30 PM</td><td><strong>Laser* Tag: Playing with basic wireless networking for fun and graceful degradation</strong> &mdash; dani.pink</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
-    <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
+    <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>4:00 PM</td><td></td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr><td>4:30 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td><strong><a href="https://uberflux.com/product/UF-SK2">Shitty Kitty v2</a></strong> &mdash; Uberfoo Industries</td><td></td><td>distinctm1nd</td><td>ReanimationXP</td><td>xenu</td></tr>
@@ -142,8 +142,8 @@ All events listed here take place in the village. Most will be at our "silent di
     </tr>
     <tr><td>10:00 AM</td><td><strong>Making The SaO MANY SAOs Badge: Lessons in Designing Your First Badge</strong> &mdash; vor_t3x1</td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
-    <tr><td>11:00 AM</td><td><strong>From Pwnagotchi to Sovereign Silicon: The Case for Hackable AI</strong> &mdash; evilbotnet</td><td><strong>Spectre Sniffer</strong> — NilbinSec</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
-    <tr><td>11:30 AM</td><td></td><td><strong>Zombie and Survivor Badge</strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
+    <tr><td>11:00 AM</td><td><strong>From Pwnagotchi to Sovereign Silicon: The Case for Hackable AI</strong> &mdash; evilbotnet</td><td><strong><a href="https://uberflux.com/product/NS-SpectreSniffer">Spectre Sniffer</a></strong> — NilbinSec</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
+    <tr><td>11:30 AM</td><td></td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>12:00 PM</td><td><strong>Pick N Place at Home: Not Just The Corporations</strong> &mdash; hamster</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong><a href="https://uberflux.com/product/NIKO-CLIPPY">Clip-Boy Badge</a></strong> &mdash; Coruscant Productions</td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>1:00 PM</td><td><strong>Mystery Badge Talk</strong> &mdash; p0lix</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
@@ -192,8 +192,8 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>11:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
-    <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td>d3g3n</td><td>Hackin7</td><td>p0lix</td></tr>
-    <tr><td>12:30 PM</td><td></td><td></td><td></td><td>d3g3n</td><td>Hackin7</td><td>p0lix</td></tr>
+    <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td></td><td>Hackin7</td><td>p0lix</td></tr>
+    <tr><td>12:30 PM</td><td></td><td></td><td></td><td></td><td>Hackin7</td><td>p0lix</td></tr>
     <tr>
       <td>1:00 PM</td>
       <td colspan="6"><em>Doors Closed &mdash; Prep Loadout</em></td>
@@ -208,6 +208,7 @@ All events listed here take place in the village. Most will be at our "silent di
 
   </tbody>
 </table>
+
   
   
 ### 📚 Explore The Badge Archive
