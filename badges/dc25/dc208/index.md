@@ -2,7 +2,7 @@
 title: DC208 - Geiger Badge
 layout: default
 parent: DC25
-grand_parent: Archive
+grand_parent: Badge Archive
 ---
 
 # DC208 - Geiger Badge

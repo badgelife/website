@@ -1,7 +1,7 @@
 ---
 title: DC30
 layout: default
-parent: Archive
+parent: Badge Archive
 has_children: true
 has_toc: true
 ---

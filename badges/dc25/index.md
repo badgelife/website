@@ -1,9 +1,9 @@
 ---
-title: DC24
+title: DC25
 layout: default
-parent: Archive
+parent: Badge Archive
 has_children: true
 has_toc: true
 ---
 
-# DC24 Badges
+# DC25 Badges

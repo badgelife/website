@@ -2,7 +2,7 @@
 title: Badgelife Village Badge (DC34 / 2026)
 layout: default
 parent: DC34
-grand_parent: Archive
+grand_parent: Badge Archive
 ---
 # Badgelife Village Badge (DC34 / 2026)
 - Image

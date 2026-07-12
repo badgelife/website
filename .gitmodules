@@ -1,7 +1,7 @@
-[submodule "archive/dc24/cpv/repo"]
-	path = archive/dc24/cpv/repo
+[submodule "badges/dc24/cpv/repo"]
+	path = badges/dc24/cpv/repo
 	url = https://github.com/cryptovillage/badge2016.git
 
-[submodule "archive/dc30/iwc/repo"]
-	path = archive/dc30/iwc/repo
+[submodule "badges/dc30/iwc/repo"]
+	path = badges/dc30/iwc/repo
 	url = https://github.com/Ironwood-Cyber/dc30-badge-hw.git

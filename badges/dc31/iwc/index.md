@@ -2,7 +2,7 @@
 title: IWC - Reactor Badge
 layout: default
 parent: DC31
-grand_parent: Archive
+grand_parent: Badge Archive
 ---
 
 # Ironwood Cyber Team - DC31  Reactor Badge

@@ -1,11 +1,11 @@
 ---
 title: DC34
 layout: default
-parent: Archive
+parent: Badge Archive
 has_children: true
 has_toc: true
 ---
 
 # Badges of DEF CON 34
 ## Badgelife Village Badge
-- [DC34 Badgelife Village Badge](/archive/dc34/villagebadge)
+- [DC34 Badgelife Village Badge](/badges/dc34/villagebadge)

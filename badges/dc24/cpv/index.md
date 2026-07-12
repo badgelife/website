@@ -2,7 +2,7 @@
 title: CPV DC24 Badge
 layout: default
 parent: DC24
-grand_parent: Archive
+grand_parent: Badge Archive
 ---
 
 # Cypto & Privacy Village - DC24 Badge

@@ -7,7 +7,7 @@ nav_order: 1
 ![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
 
 # Welcome to BadgeLife!
-Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be hosting things like [Badge Archive](/archive/archive), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Village Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.  
+Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be hosting things like [Badge Archive](/badges), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Village Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.  
 
 Follow us on [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
   
@@ -216,7 +216,7 @@ Soon, this space will house detailed information about the entire historical cat
 - **Pictures:** High-quality images showcasing badge designs.
 - **Schematics:** Circuit diagrams and technical drawings.
 - **Source Code:** Firmware and software behind the badges.
-These will be accessible via the [Badge Archive](/archive/archive).
+These will be accessible via the [Badge Archive](/badges).
   
 There's a few entries there right now, but in the meantime, why not check out @Smagtastic / @K4rm4ness's historical Badge Lists?  
 DC 30: https://docs.google.com/spreadsheets/d/1cu99HozImdjNqTEM8iFsNzNswNw5De0Oe_hax3ywZ2U/edit?usp=sharing  

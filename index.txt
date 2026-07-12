@@ -2,12 +2,12 @@
 
 ### 🆕 New and Upcoming Badges
 
-Stay on top of the latest badge innovations in our [New Badges](archive/dc32/dc32) section:
+Stay on top of the latest badge innovations in our [New Badges](/badges/dc32) section:
 - **Announcements:** Information on new and upcoming badges.
 - **Submit Your Badge:** Share your DC32 badge information using the submission form [here](https://t.co/UhN5iChYvH) (credit: K4rm4ness).
 - **Curated Lists:** View the latest curated list [here](https://t.co/JUbgMb3Lze) (credit: K4rm4ness).
 
-Check out the [DC32 Badges](archive/dc32/dc32) page for more details.
+Check out the [DC32 Badges](/badges/dc32) page for more details.
 
 ## Maker Resources
 

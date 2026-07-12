@@ -2,7 +2,7 @@
 title: IWC - Tron Badge
 layout: default
 parent: DC30
-grand_parent: Archive
+grand_parent: Badge Archive
 ---
 
 # Ironwood Cyber Team - DC30  Tron Badge  
