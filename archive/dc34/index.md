@@ -8,4 +8,4 @@ has_toc: true
 
 # Badges of DEF CON 34
 ## Badgelife Village Badge
-- [DC34 Badgelife Village Badge](/villagebadge)
+- [DC34 Badgelife Village Badge](/archive/dc34/villagebadge)
