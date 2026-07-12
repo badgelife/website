@@ -17,6 +17,7 @@ All events listed here take place in the village. Most will be at our "silent di
 
 
 
+
 <table border="1" style="text-align: center;">
   <thead>
     <tr>
@@ -104,7 +105,7 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
-    <tr><td>4:00 PM</td><td></td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
+    <tr><td>4:00 PM</td><td></td><td><strong><a href="https://aosc.cc/eccn2026">2026 Charity eChallenge Coin</a></strong> &mdash; Bradán Lane Studio</td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr><td>4:30 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td><strong><a href="https://uberflux.com/product/UF-SK2">Shitty Kitty v2</a></strong> &mdash; Uberfoo Industries</td><td></td><td>distinctm1nd</td><td>ReanimationXP</td><td>xenu</td></tr>
     <tr><td>5:00 PM</td><td></td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr><td>5:30 PM</td><td><strong>Making The Whose Slide Is It Anyway 10 Year Anniversary Badge</strong> &mdash; rand0h</td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
@@ -208,6 +209,7 @@ All events listed here take place in the village. Most will be at our "silent di
 
   </tbody>
 </table>
+
 
   
   
