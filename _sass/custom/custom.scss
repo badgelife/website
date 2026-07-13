@@ -1,23 +1,75 @@
-// Custom overrides for the just-the-docs theme.
+// Custom CSS overrides for the just-the-docs theme.
 //
-// just-the-docs automatically imports this file (_sass/custom/custom.scss) at
-// the end of its stylesheet, so anything here is compiled into the
-// just-the-docs-default.css that every page loads — no <link> wiring needed.
-// (The old assets/css/just-the-docs.scss and assets/css/main.css in this repo
-//  are NOT loaded by the theme and have no effect.)
+// just-the-docs imports this file (_sass/custom/custom.scss) LAST, so rules
+// here override the theme. Plain CSS only — SCSS variable overrides (like the
+// content width) live in _sass/custom/setup.scss instead.
 
-// ---------------------------------------------------------------------------
-// Wide tables (e.g. the DC34 Village Schedule on the home page)
-// ---------------------------------------------------------------------------
-// The theme caps the content column at 800px. A table wider than that used to
-// spill past the column and get clipped at the page edge with no way to reach
-// the hidden columns. Turning each content table into its own scroll box keeps
-// it inside the column and lets you scroll/swipe to the rest — which also makes
-// it touch-friendly on phones and tablets.
-.main-content table {
-  display: block;          // let the table act as its own scroll container
-  width: max-content;      // keep a readable width instead of cramming columns
-  max-width: 100%;         // ...but never wider than the content column
-  overflow-x: auto;        // scroll horizontally instead of clipping
+// ===========================================================================
+// Responsive tables — never let a wide table get clipped at the page edge
+// ===========================================================================
+// The styled schedule scrolls inside its .table-scroll wrapper (and stays a
+// real <table> so the column shading below works). Any OTHER content table
+// becomes its own scroll box instead, which needs no wrapper markup.
+.table-scroll {
+  overflow-x: auto;
   -webkit-overflow-scrolling: touch; // momentum scrolling on iOS
+}
+
+.main-content table:not(.schedule) {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+// ===========================================================================
+// DC34 Village Schedule  ( <table class="schedule"> )
+// ===========================================================================
+// Restyle the whole table by editing these colors. Each header is a darker
+// shade of its own column group's content color.
+$sched-border: rgba(255, 255, 255, 0.08); // soft 1px hairline
+$sched-band:   #262430;                   // full-width rows: day headings, "Set Up", "FIN", …
+
+// Content column ...................... and its (darker) header
+$sched-cell:   #2d2b33;   $sched-hdr:       #1c1b21; // Time / Talk
+$sched-drops:  #33313f;   $sched-hdr-drops: #201e28; // Badge Drops — cool tint
+$sched-vols:   #2c3a2f;   $sched-hdr-vols:  #1c261e; // Volunteers  — circuit-board green tint
+
+table.schedule {
+  width: 100%;
+  min-width: 40rem;          // stays readable; the wrapper scrolls on small screens
+  border-collapse: collapse;
+  text-align: center;
+  background: $sched-cell;
+}
+
+table.schedule th,
+table.schedule td {
+  border: 1px solid $sched-border;
+  padding: 0.45rem 0.65rem;
+}
+
+// Content column shading. Columns are defined by <colgroup> in the HTML, so
+// this stays correct despite the table's colspans/rowspans. Data cells are
+// transparent so these column colors show through.
+table.schedule col.col-drops { background: $sched-drops; }
+table.schedule col.col-vols  { background: $sched-vols; }
+table.schedule td            { background: transparent; }
+
+// Headers — a darker shade of each column group's content color.
+table.schedule th            { background: $sched-hdr; }       // default (unclassed)
+table.schedule th.hdr        { background: $sched-hdr; }       // Time / Talk
+table.schedule th.hdr-drops  { background: $sched-hdr-drops; } // Badge Drops group
+table.schedule th.hdr-vols   { background: $sched-hdr-vols; }  // Volunteers group
+
+// Full-width band rows (day headings, "Set Up", "Doors Closed", "FIN", …)
+table.schedule td[colspan]   { background: $sched-band; }
+
+// ===========================================================================
+// Dimmed italic notes —  <span class="note">…</span>
+// ===========================================================================
+.note {
+  font-style: italic;
+  color: #a29fad;
 }

@@ -19,20 +19,27 @@ All events listed here take place in the village. Most will be at our "silent di
 
 
 
-<table border="1" style="text-align: center;">
+<div class="table-scroll">
+<table class="schedule">
+  <colgroup>
+    <col class="col-time" />
+    <col class="col-talk" />
+    <col class="col-drops" span="2" />
+    <col class="col-vols" span="3" />
+  </colgroup>
   <thead>
     <tr>
-      <th rowspan="2">Time</th>
-      <th rowspan="2">Talk</th>
-      <th colspan="2">Badge Drops</th>
-      <th colspan="3">Volunteers</th>
+      <th rowspan="2" class="hdr">Time</th>
+      <th rowspan="2" class="hdr">Talk</th>
+      <th colspan="2" class="hdr-drops">Badge Drops</th>
+      <th colspan="3" class="hdr-vols">Volunteers</th>
     </tr>
     <tr>
-      <th>Drop 1</th>
-      <th>Drop 2</th>
-      <th>Badgelife Museum</th>
-      <th>Badge Genius Bar</th>
-      <th>General</th>
+      <th class="hdr-drops">Drop 1</th>
+      <th class="hdr-drops">Drop 2</th>
+      <th class="hdr-vols">Badgelife Museum</th>
+      <th class="hdr-vols">Badge Genius Bar</th>
+      <th class="hdr-vols">General</th>
     </tr>
   </thead>
   <tbody>
@@ -45,7 +52,7 @@ All events listed here take place in the village. Most will be at our "silent di
     </tr>
     <tr>
       <td>2:30 PM</td>
-      <td colspan="6"><em>Village Early Load-In — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Village Early Load-In — Not Open To Public</span></td>
     </tr>
 
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -56,15 +63,15 @@ All events listed here take place in the village. Most will be at our "silent di
     </tr>
     <tr>
       <td>10:00 AM</td>
-      <td colspan="6"><em>Village Load-In — Not Open To Public (Panda, GhostGlitch Crew, LqqtOut)</em></td>
+      <td colspan="6"><span class="note">Village Load-In — Not Open To Public (Panda, GhostGlitch Crew, LqqtOut)</span></td>
     </tr>
     <tr>
       <td>3:00 PM</td>
-      <td colspan="6"><em>Village Load-In (Continued) — Not Open To Public (Blinkingthing, Panda, GhostGlitch Crew, LqqtOut)</em></td>
+      <td colspan="6"><span class="note">Village Load-In (Continued) — Not Open To Public (Blinkingthing, Panda, GhostGlitch Crew, LqqtOut)</span></td>
     </tr>
     <tr>
       <td>5:00 PM</td>
-      <td colspan="6"><em>Post Load-In / Wrap</em></td>
+      <td colspan="6"><span class="note">Post Load-In / Wrap</span></td>
     </tr>
 
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -74,25 +81,25 @@ All events listed here take place in the village. Most will be at our "silent di
       <td colspan="7"><strong>FRIDAY — August 7</strong></td>
     </tr>
     <tr>
-      <th rowspan="2">Time</th>
-      <th rowspan="2">Talk</th>
-      <th colspan="2">Badge Drops</th>
-      <th colspan="3">Volunteers</th>
+      <th rowspan="2" class="hdr">Time</th>
+      <th rowspan="2" class="hdr">Talk</th>
+      <th colspan="2" class="hdr-drops">Badge Drops</th>
+      <th colspan="3" class="hdr-vols">Volunteers</th>
     </tr>
     <tr>
-      <th>Drop 1</th>
-      <th>Drop 2</th>
-      <th>Badgelife Museum</th>
-      <th>Badge Genius Bar</th>
-      <th>General</th>
+      <th class="hdr-drops">Drop 1</th>
+      <th class="hdr-drops">Drop 2</th>
+      <th class="hdr-vols">Badgelife Museum</th>
+      <th class="hdr-vols">Badge Genius Bar</th>
+      <th class="hdr-vols">General</th>
     </tr>
     <tr>
       <td>9:00 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr>
       <td>9:30 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td></tr>
     <tr><td>10:30 AM</td><td></td><td><strong><a href="https://uberflux.com/product/PL-1471">MalO SAO</a></strong> &mdash; ParallelLogic</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td></tr>
@@ -112,7 +119,7 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>5:30 PM</td><td><strong>Making The Whose Slide Is It Anyway 10 Year Anniversary Badge</strong> &mdash; rand0h</td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr>
       <td>6:00 PM</td>
-      <td colspan="6"><em>Doors Closed</em></td>
+      <td colspan="6"><span class="note">Doors Closed</span></td>
     </tr>
 
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -122,25 +129,25 @@ All events listed here take place in the village. Most will be at our "silent di
       <td colspan="7"><strong>SATURDAY — August 8</strong></td>
     </tr>
     <tr>
-      <th rowspan="2">Time</th>
-      <th rowspan="2">Talk</th>
-      <th colspan="2">Badge Drops</th>
-      <th colspan="3">Volunteers</th>
+      <th rowspan="2" class="hdr">Time</th>
+      <th rowspan="2" class="hdr">Talk</th>
+      <th colspan="2" class="hdr-drops">Badge Drops</th>
+      <th colspan="3" class="hdr-vols">Volunteers</th>
     </tr>
     <tr>
-      <th>Drop 1</th>
-      <th>Drop 2</th>
-      <th>Badgelife Museum</th>
-      <th>Badge Genius Bar</th>
-      <th>General</th>
+      <th class="hdr-drops">Drop 1</th>
+      <th class="hdr-drops">Drop 2</th>
+      <th class="hdr-vols">Badgelife Museum</th>
+      <th class="hdr-vols">Badge Genius Bar</th>
+      <th class="hdr-vols">General</th>
     </tr>
     <tr>
       <td>9:00 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr>
       <td>9:30 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr><td>10:00 AM</td><td><strong>Making The SaO MANY SAOs Badge: Lessons in Designing Your First Badge</strong> &mdash; vor_t3x1</td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
@@ -160,7 +167,7 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>5:30 PM</td><td></td><td></td><td></td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
     <tr>
       <td>6:00 PM</td>
-      <td colspan="6"><em>Doors Closed</em></td>
+      <td colspan="6"><span class="note">Doors Closed</span></td>
     </tr>
 
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -170,25 +177,25 @@ All events listed here take place in the village. Most will be at our "silent di
       <td colspan="7"><strong>SUNDAY — August 9</strong></td>
     </tr>
     <tr>
-      <th rowspan="2">Time</th>
-      <th rowspan="2">Talk</th>
-      <th colspan="2">Badge Drops</th>
-      <th colspan="3">Volunteers</th>
+      <th rowspan="2" class="hdr">Time</th>
+      <th rowspan="2" class="hdr">Talk</th>
+      <th colspan="2" class="hdr-drops">Badge Drops</th>
+      <th colspan="3" class="hdr-vols">Volunteers</th>
     </tr>
     <tr>
-      <th>Drop 1</th>
-      <th>Drop 2</th>
-      <th>Badgelife Museum</th>
-      <th>Badge Genius Bar</th>
-      <th>General</th>
+      <th class="hdr-drops">Drop 1</th>
+      <th class="hdr-drops">Drop 2</th>
+      <th class="hdr-vols">Badgelife Museum</th>
+      <th class="hdr-vols">Badge Genius Bar</th>
+      <th class="hdr-vols">General</th>
     </tr>
     <tr>
       <td>9:00 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr>
       <td>9:30 AM</td>
-      <td colspan="6"><em>Set Up — Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
     <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
@@ -198,18 +205,19 @@ All events listed here take place in the village. Most will be at our "silent di
     <tr><td>12:30 PM</td><td></td><td></td><td></td><td></td><td>Hackin7</td><td>p0lix</td></tr>
     <tr>
       <td>1:00 PM</td>
-      <td colspan="6"><em>Doors Closed &mdash; Prep Loadout</em></td>
+      <td colspan="6"><span class="note">Doors Closed &mdash; Prep Loadout</span></td>
     </tr>
     <tr>
       <td>1:30 PM</td>
-      <td colspan="6"><em>Loadout &mdash; Not Open To Public</em></td>
+      <td colspan="6"><span class="note">Loadout &mdash; Not Open To Public</span></td>
     </tr>
     <tr>
-      <td colspan="7" style="text-align: center;"><strong>FIN</strong></td>
+      <td colspan="7"><strong>FIN</strong></td>
     </tr>
 
   </tbody>
 </table>
+</div>
 
 
 
