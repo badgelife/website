@@ -73,3 +73,37 @@ table.schedule td[colspan]   { background: $sched-band; }
   font-style: italic;
   color: #a29fad;
 }
+
+// ===========================================================================
+// Mobile: shrink the wide schedule to fit the screen (no word-breaking)
+// ===========================================================================
+// Two adjusters you can play with. They are CSS custom properties (not Sass
+// variables) on purpose, so you can also live-tweak them in browser DevTools
+// (e.g. set `:root { --content-mobile-zoom: 0.9 }`) before settling on a value:
+//
+//   --schedule-mobile-zoom : scales JUST the schedule table down so all seven
+//       columns fit the phone with every word kept whole. 0.46 fits a ~375px
+//       phone exactly; raise toward 0.5 for bigger text (very small phones then
+//       scroll a little — the .table-scroll wrapper catches that), lower to
+//       shrink further.
+//
+//   --content-mobile-zoom  : scales the WHOLE page content on phones (1 = no
+//       change). Drop it below 1 (e.g. 0.9) if the surrounding text/headings
+//       feel too big next to the shrunken table. NOTE: it compounds with the
+//       schedule zoom (the table ends up content x schedule).
+:root {
+  --schedule-mobile-zoom: 0.46;
+  --content-mobile-zoom: 1;
+}
+
+@media (max-width: 600px) {
+  .main-content { zoom: var(--content-mobile-zoom); }
+
+  // Lay the table out at its natural width (columns keep their ratios and words
+  // stay whole), then scale it down to fit — instead of cramming skinny columns.
+  table.schedule {
+    min-width: 0;
+    width: auto;
+    zoom: var(--schedule-mobile-zoom);
+  }
+}
