@@ -5,7 +5,7 @@ theme: just-the-docs
 plugins:
   - jekyll-redirect-from
 
-url: https://badge.life/
+url: https://badge.life
 # logo: assets/images/badge-life-logo-small.png
 favicon_ico: assets/images/favicon.ico
 

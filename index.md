@@ -7,15 +7,15 @@ nav_order: 1
 ![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
 
 # Welcome to BadgeLife!
-Welcome to **BadgeLife**, the home for the #Badgelife village! Here we will be hosting things like [Badge Archive](/badges), the upcoming Badge.life API, and more. Currently it's mainly the home for our Badgelife Village Schedule, [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf), and more.  
+Welcome to **BadgeLife**, the home of the recently-evolved #Badgelife Village! We're back as a proper village this year, woohoo! Check out our navigation menu for things like the [Badge Archive](/badges), [Specification Documentation](/specs), the upcoming [Badgelife API](#), and more! Current event information will be hosted on this page, such as the Badgelife Village Schedule, Village Badge and SAO instructions, our [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf) for sharing with sponsors, and more!  
 
-Follow us on [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
+Be sure to Follow Us on our new [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
+
+## DC34 Badgelife Village SAO Instructions and Badge Documentation
+Looking for details on how to build our SAOs and interact with the DC34 Badgelife Village Badge? [Click Here!](#)
   
 ## DC34 Village Schedule:
-All events listed here take place in the village. Most will be at our "silent disco" stage setup. Please be sure to thank our 2026 Village Sponsors at the bottom of this page! They really came through last year and are helping us fund this year as well!
-
-
-
+All events listed here take place in the Badgelife Village. Most will be at our "silent disco" type stage setup. Please be sure to thank our 2026 Village Sponsors below! They really came through last year and are helping us fund this year as well!
 
 
 
@@ -220,18 +220,15 @@ All events listed here take place in the village. Most will be at our "silent di
 </table>
 </div>
 
-
-
-  
-  
-### 📚 Explore The Badge Archive
+   
+### 📚 Explore the Badge Archive
 Soon, this space will house detailed information about the entire historical catalogue of electronic badges. It will include:
 - **Pictures:** High-quality images showcasing badge designs.
 - **Schematics:** Circuit diagrams and technical drawings.
 - **Source Code:** Firmware and software behind the badges.
 These will be accessible via the [Badge Archive](/badges).
   
-There's a few entries there right now, but in the meantime, why not check out @Smagtastic / @K4rm4ness's historical Badge Lists?  
+There's a few entries there right now, but in the mean time, why not check out @Smagtastic / @K4rm4ness's historical Badge Lists?  
 DC 30: https://docs.google.com/spreadsheets/d/1cu99HozImdjNqTEM8iFsNzNswNw5De0Oe_hax3ywZ2U/edit?usp=sharing  
 DC 31: https://docs.google.com/spreadsheets/d/1ll9GVWq1jELk79OyfdalMrgccdF3AGo2qEQIxnKsXdY/edit?usp=sharing  
 DC 32: https://docs.google.com/spreadsheets/d/1POGyxIY4eBrXeD2hWqKz8fm9uuuy7yG1XwhVF1pnmzI/edit?usp=sharing  
@@ -253,44 +250,4 @@ Thank you so much to our incredible Community sponsors! I am absolutely blown aw
 - **The Car Hacking Village** donated **$1500** in party funds! Wowza!!
 - **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badgelife Community efforts! I'm absolutely speechless!!
 
-<script>
-// Fit the wide schedule table to the screen on phones by scaling it down with
-// transform:scale() — iOS/WebKit didn't reliably apply CSS `zoom` to a table's
-// width/height until Safari 26. Also powers the "(Full Size)" toggle link.
-document.addEventListener('DOMContentLoaded', function () {
-  var MOBILE = window.matchMedia('(max-width: 600px)');
-  var wrap   = document.querySelector('.table-scroll');
-  var table  = wrap && wrap.querySelector('table.schedule');
-  var link   = document.querySelector('[data-fit-toggle]');
-  if (!table) return;
-
-  function fit() {
-    table.style.transform = '';   // reset so we measure the true (unscaled) size
-    wrap.style.height = '';
-    if (wrap.classList.contains('is-full-size') || !MOBILE.matches) return;
-    var natural = table.offsetWidth;                     // unscaled layout width
-    if (!natural) return;
-    var scale = Math.min(1, wrap.clientWidth / natural);
-    table.style.transform = 'scale(' + scale + ')';
-    wrap.style.height = Math.ceil(table.offsetHeight * scale) + 'px'; // kill the gap
-  }
-
-  if (link) link.addEventListener('click', function (e) {
-    e.preventDefault();
-    var full = wrap.classList.toggle('is-full-size');
-    link.textContent = full ? '(Click here to Fit to Screen)'
-                            : '(Click here for Full Size)';
-    fit();
-  });
-
-  window.addEventListener('resize', fit);
-  window.addEventListener('orientationchange', fit);
-  if (MOBILE.addEventListener) MOBILE.addEventListener('change', fit);
-  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
-  fit();
-});
-</script>
-
-
-
-
+<script src="{{ '/assets/js/schedule-fit.js' | relative_url }}" defer></script>
