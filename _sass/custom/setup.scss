@@ -1,0 +1,33 @@
+// Variable overrides for the just-the-docs theme.
+//
+// The theme imports this file (_sass/custom/setup.scss) BEFORE it builds the
+// layout, so this is the correct place to override layout SCSS variables such
+// as $content-width. (Plain CSS overrides belong in custom/custom.scss, which
+// is imported last instead.)
+
+// ---------------------------------------------------------------------------
+// Widen the content column
+// ---------------------------------------------------------------------------
+// The theme default is 50rem (800px), which clipped wide content like the DC34
+// Village Schedule. Change ONLY the value below to make the column wider or
+// narrower — everything else is derived from it.
+//
+// Behavior with this setting:
+//   * On screens up to the `lg` breakpoint the column is fluid and fills the
+//     available width (viewport minus the sidebar).
+//   * At/above `lg` it is centered and capped at $content-width, so text lines
+//     don't become unreadably long on very large / ultrawide monitors.
+$content-width: 90rem; // 1440px
+
+// The theme sets the `lg` breakpoint to `$nav-width + $content-width` on
+// purpose: it's the point where the sidebar/main centering math evaluates to a
+// zero margin. If `lg` were smaller than that sum, the margin would go negative
+// and push content off the right edge of the screen. We redefine the whole
+// media-query map so that invariant is preserved with the wider column.
+$media-queries: (
+  xs: 20rem,
+  sm: 31.25rem,
+  md: 50rem,
+  lg: $nav-width + $content-width, // = 106.5rem — keeps centering margins >= 0
+  xl: 120rem
+);

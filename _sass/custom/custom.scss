@@ -1,0 +1,23 @@
+// Custom overrides for the just-the-docs theme.
+//
+// just-the-docs automatically imports this file (_sass/custom/custom.scss) at
+// the end of its stylesheet, so anything here is compiled into the
+// just-the-docs-default.css that every page loads — no <link> wiring needed.
+// (The old assets/css/just-the-docs.scss and assets/css/main.css in this repo
+//  are NOT loaded by the theme and have no effect.)
+
+// ---------------------------------------------------------------------------
+// Wide tables (e.g. the DC34 Village Schedule on the home page)
+// ---------------------------------------------------------------------------
+// The theme caps the content column at 800px. A table wider than that used to
+// spill past the column and get clipped at the page edge with no way to reach
+// the hidden columns. Turning each content table into its own scroll box keeps
+// it inside the column and lets you scroll/swipe to the rest — which also makes
+// it touch-friendly on phones and tablets.
+.main-content table {
+  display: block;          // let the table act as its own scroll container
+  width: max-content;      // keep a readable width instead of cramming columns
+  max-width: 100%;         // ...but never wider than the content column
+  overflow-x: auto;        // scroll horizontally instead of clipping
+  -webkit-overflow-scrolling: touch; // momentum scrolling on iOS
+}
