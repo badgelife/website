@@ -75,35 +75,43 @@ table.schedule td[colspan]   { background: $sched-band; }
 }
 
 // ===========================================================================
-// Mobile: shrink the wide schedule to fit the screen (no word-breaking)
+// Mobile: scale the wide schedule down to fit the screen
 // ===========================================================================
-// Two adjusters you can play with. They are CSS custom properties (not Sass
-// variables) on purpose, so you can also live-tweak them in browser DevTools
-// (e.g. set `:root { --content-mobile-zoom: 0.9 }`) before settling on a value:
+// We scale with transform:scale() (NOT `zoom`). iOS/WebKit did not reliably
+// apply `zoom` to a table's width/height until Safari 26, so `zoom` silently
+// no-ops on most iPhones. transform works on iOS + Android. A small script in
+// index.md measures the table, sets the scale, collapses the wrapper height so
+// there's no empty gap, and powers the "(Click here for Full Size)" toggle.
 //
-//   --schedule-mobile-zoom : scales JUST the schedule table down so all seven
-//       columns fit the phone with every word kept whole. 0.46 fits a ~375px
-//       phone exactly; raise toward 0.5 for bigger text (very small phones then
-//       scroll a little — the .table-scroll wrapper catches that), lower to
-//       shrink further.
-//
-//   --content-mobile-zoom  : scales the WHOLE page content on phones (1 = no
-//       change). Drop it below 1 (e.g. 0.9) if the surrounding text/headings
-//       feel too big next to the shrunken table. NOTE: it compounds with the
-//       schedule zoom (the table ends up content x schedule).
-:root {
-  --schedule-mobile-zoom: 0.46;
-  --content-mobile-zoom: 1;
-}
+// Adjuster (a CSS custom property, so you can also live-tweak it in DevTools):
+//   --content-mobile-text-scale : shrinks the surrounding body text on phones
+//   if it feels too big next to the scaled-down table. 1 = unchanged; try 0.9.
+:root { --content-mobile-text-scale: 1; }
+
+.fit-toggle { display: none; } // the toggle link only appears on phones
 
 @media (max-width: 600px) {
-  .main-content { zoom: var(--content-mobile-zoom); }
+  // Optionally shrink the page's body text to taste (see the variable above).
+  .main-content { font-size: calc(1em * var(--content-mobile-text-scale)); }
 
-  // Lay the table out at its natural width (columns keep their ratios and words
-  // stay whole), then scale it down to fit — instead of cramming skinny columns.
+  .fit-toggle { display: block; text-align: center; margin: 0 0 0.4rem; }
+
+  // FIT mode (default): the script scales the table down with transform, so
+  // clip its full-size layout box — no empty gap, no phantom scrollbar.
+  .table-scroll { overflow: hidden; }
+
+  // FULL-SIZE mode (toggled on): show the real table and scroll it sideways.
+  .table-scroll.is-full-size {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  // Lay the table out at a roomy width so columns keep their ratios and words
+  // stay whole; the script scales this down to fit. (No `zoom` — see above.)
   table.schedule {
     min-width: 0;
-    width: auto;
-    zoom: var(--schedule-mobile-zoom);
+    width: 46rem;
+    max-width: none;
+    transform-origin: top left;
   }
 }

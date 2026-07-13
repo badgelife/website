@@ -19,6 +19,7 @@ All events listed here take place in the village. Most will be at our "silent di
 
 
 
+<p class="fit-toggle"><a href="#" data-fit-toggle>(Click here for Full Size)</a></p>
 <div class="table-scroll">
 <table class="schedule">
   <colgroup>
@@ -251,6 +252,44 @@ Thank you so much to our incredible Community sponsors! I am absolutely blown aw
 - **Acetolyne** donated **$500**!
 - **The Car Hacking Village** donated **$1500** in party funds! Wowza!!
 - **An Anonymous Platinum Donor** donated a whopping **$5000** toward the Badgelife Community efforts! I'm absolutely speechless!!
+
+<script>
+// Fit the wide schedule table to the screen on phones by scaling it down with
+// transform:scale() — iOS/WebKit didn't reliably apply CSS `zoom` to a table's
+// width/height until Safari 26. Also powers the "(Full Size)" toggle link.
+document.addEventListener('DOMContentLoaded', function () {
+  var MOBILE = window.matchMedia('(max-width: 600px)');
+  var wrap   = document.querySelector('.table-scroll');
+  var table  = wrap && wrap.querySelector('table.schedule');
+  var link   = document.querySelector('[data-fit-toggle]');
+  if (!table) return;
+
+  function fit() {
+    table.style.transform = '';   // reset so we measure the true (unscaled) size
+    wrap.style.height = '';
+    if (wrap.classList.contains('is-full-size') || !MOBILE.matches) return;
+    var natural = table.offsetWidth;                     // unscaled layout width
+    if (!natural) return;
+    var scale = Math.min(1, wrap.clientWidth / natural);
+    table.style.transform = 'scale(' + scale + ')';
+    wrap.style.height = Math.ceil(table.offsetHeight * scale) + 'px'; // kill the gap
+  }
+
+  if (link) link.addEventListener('click', function (e) {
+    e.preventDefault();
+    var full = wrap.classList.toggle('is-full-size');
+    link.textContent = full ? '(Click here to Fit to Screen)'
+                            : '(Click here for Full Size)';
+    fit();
+  });
+
+  window.addEventListener('resize', fit);
+  window.addEventListener('orientationchange', fit);
+  if (MOBILE.addEventListener) MOBILE.addEventListener('change', fit);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+  fit();
+});
+</script>
 
 
 
