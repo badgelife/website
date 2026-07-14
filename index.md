@@ -20,6 +20,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
 
 
 
+
 <p class="fit-toggle"><a href="#" data-fit-toggle>(Click here for Full Size)</a></p>
 <div class="table-scroll">
 <table class="schedule">
@@ -113,9 +114,9 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>1:30 PM</td><td><strong>Laser* Tag: Playing with basic wireless networking for fun and graceful degradation</strong> &mdash; dani.pink</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
-    <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
+    <tr><td>3:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>3:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td></td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
-    <tr><td>4:00 PM</td><td></td><td><strong><a href="https://aosc.cc/eccn2026">2026 Charity eChallenge Coin</a></strong> &mdash; Bradán Lane Studio</td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
+    <tr><td>4:00 PM</td><td></td><td><strong><a href="https://aosc.cc/eccn2026">2026 Charity eChallenge Coin</a></strong> &mdash; Bradán Lane Studio</td><td><strong><a href="https://brookesbytes.myshopify.com/products/agency-wand-pre-order">Brookes Bytes Badge and SAOs</a></strong> &mdash; Brookes Bytes</td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr><td>4:30 PM</td><td><strong>TBD</strong> &mdash; Gater_Byte</td><td><strong><a href="https://uberflux.com/product/UF-SK2">Shitty Kitty v2</a></strong> &mdash; Uberfoo Industries</td><td></td><td>distinctm1nd</td><td>ReanimationXP</td><td>xenu</td></tr>
     <tr><td>5:00 PM</td><td></td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
     <tr><td>5:30 PM</td><td><strong>Making The Whose Slide Is It Anyway 10 Year Anniversary Badge</strong> &mdash; rand0h</td><td></td><td></td><td>distinctm1nd</td><td>Lipo</td><td>xenu</td></tr>
@@ -154,7 +155,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>10:00 AM</td><td><strong>Making The SaO MANY SAOs Badge: Lessons in Designing Your First Badge</strong> &mdash; vor_t3x1</td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>11:00 AM</td><td><strong>From Pwnagotchi to Sovereign Silicon: The Case for Hackable AI</strong> &mdash; evilbotnet</td><td><strong><a href="https://uberflux.com/product/NS-SpectreSniffer">Spectre Sniffer</a></strong> — NilbinSec</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
-    <tr><td>11:30 AM</td><td></td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td></td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
+    <tr><td>11:30 AM</td><td></td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>12:00 PM</td><td><strong>Pick N Place at Home: Not Just The Corporations</strong> &mdash; hamster</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>12:30 PM</td><td><strong>Placeholder Talk</strong> &mdash; Big Taro</td><td><strong><a href="https://uberflux.com/product/NIKO-CLIPPY">Clip-Boy Badge</a></strong> &mdash; Coruscant Productions</td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>1:00 PM</td><td><strong>Placeholder Talk</strong> &mdash; Big Taro</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
@@ -165,7 +166,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>3:30 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong><a href="https://wyrdwyrks.com/celestial-wayfinder/">Celestial Wayfinder Badge</a></strong> &mdash; Wyrd Wyrks</td><td></td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
     <tr><td>4:00 PM</td><td></td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Zedish</td><td>Lipo</td><td>Vynra</td></tr>
     <tr><td>4:30 PM</td><td><strong>Making Badges Glow Different: Gemstones, Acrylic, and the Wicked Art of Light &amp; Motion</strong> &mdash; Panda</td><td></td><td></td><td>Zedish</td><td>Lipo</td><td>Vynra</td></tr>
-    <tr><td>5:00 PM</td><td><strong>GreyMecha/Army: How we made 400+ badges with FPGAs</strong> &mdash; Hackin7</td><td></td><td></td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
+    <tr><td>5:00 PM</td><td><strong>GreyMecha/Army: How we made 400+ badges with FPGAs</strong> &mdash; Hackin7</td><td></td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
     <tr><td>5:30 PM</td><td></td><td></td><td></td><td>Zedish</td><td>Kitsu</td><td>Vynra</td></tr>
     <tr>
       <td>6:00 PM</td>
@@ -201,7 +202,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     </tr>
     <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
-    <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
+    <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>11:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td></tr>
     <tr><td>12:30 PM</td><td></td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td></tr>
