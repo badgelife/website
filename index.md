@@ -19,6 +19,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
 
 
 
+
 <p class="fit-toggle"><a href="#" data-fit-toggle>(Click here for Full Size)</a></p>
 <div class="table-scroll">
 <table class="schedule">
@@ -202,8 +203,8 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
     <tr><td>11:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td></tr>
-    <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td></td><td>Hackin7</td><td>p0lix</td></tr>
-    <tr><td>12:30 PM</td><td></td><td></td><td></td><td></td><td>Hackin7</td><td>p0lix</td></tr>
+    <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td></tr>
+    <tr><td>12:30 PM</td><td></td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td></tr>
     <tr>
       <td>1:00 PM</td>
       <td colspan="6"><span class="note">Doors Closed &mdash; Prep Loadout</span></td>
