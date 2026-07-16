@@ -21,6 +21,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
 
 
 
+
 <p class="fit-toggle"><a href="#" data-fit-toggle>(Click here for Full Size)</a></p>
 <div class="table-scroll">
 <table class="schedule">
@@ -158,8 +159,8 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>11:30 AM</td><td></td><td><strong><a href="https://www.h4irl1n3-m0gg3r5.com/">Zombie and Survivor Badge</a></strong> &mdash; H4irl1n3 M0gg3r5</td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Gemini</td><td>Kybr</td><td>Contessa</td></tr>
     <tr><td>12:00 PM</td><td><strong>Pick N Place at Home: Not Just The Corporations</strong> &mdash; hamster</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>12:30 PM</td><td><strong>Placeholder Talk</strong> &mdash; Big Taro</td><td><strong><a href="https://uberflux.com/product/NIKO-CLIPPY">Clip-Boy Badge</a></strong> &mdash; Coruscant Productions</td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
-    <tr><td>1:00 PM</td><td><strong>Placeholder Talk</strong> &mdash; Big Taro</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
-    <tr><td>1:30 PM</td><td><strong>Mystery Badge Talk</strong> &mdash; p0lix</td><td><strong><a href="https://uberflux.com/product/PL-1471">MalO SAO</a></strong> &mdash; ParallelLogic</td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
+    <tr><td>1:00 PM</td><td><strong>Placeholder Talk</strong> &mdash; Big Taro</td><td></td><td></td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
+    <tr><td>1:30 PM</td><td><strong>Mystery Badge Talk</strong> &mdash; p0lix</td><td><strong><a href="https://uberflux.com/product/PL-1471">MalO SAO</a></strong> &mdash; ParallelLogic</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td>Caelyb</td><td>Acetolyne</td><td>distinctm1nd</td></tr>
     <tr><td>2:00 PM</td><td><strong>Money for Nuffin! Your Badge is Good Enough</strong> &mdash; beckettcat</td><td><strong><a href="https://uberflux.com/product/UF-SK2">Shitty Kitty v2</a></strong> &mdash; Uberfoo Industries</td><td><strong><a href="https://ko-fi.com/caelybr/shop">Not Just a Crosswalk SAO/No Ice SAO</a></strong> &mdash; Caelyb</td><td>Penzz</td><td>Acetolyne</td><td>Hashikitty</td></tr>
     <tr><td>2:30 PM</td><td></td><td><strong><a href="https://lepi-labs.com/shop">lepi-labs SAOs</a></strong></td><td></td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
     <tr><td>3:00 PM</td><td><strong>Introduction to KiCAD</strong> &mdash; Blenster</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Penzz</td><td>Lipo</td><td>Hashikitty</td></tr>
