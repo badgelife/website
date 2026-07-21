@@ -19,9 +19,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
 
 
 
-
-
-
 <p class="fit-toggle"><a href="#" data-fit-toggle>(Click here for Full Size)</a></p>
 <div class="table-scroll">
 <table class="schedule">
@@ -111,7 +108,7 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr><td>11:30 AM</td><td></td><td><strong><a href="https://ko-fi.com/caelybr/shop">Not Just a Crosswalk SAO/No Ice SAO</a></strong> &mdash; Caelyb</td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td></tr>
     <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td><strong><a href="https://wyrdwyrks.com/celestial-wayfinder/">Celestial Wayfinder Badge</a></strong> &mdash; Wyrd Wyrks</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong><a href="https://lepi-labs.com/shop">lepi-labs SAOs</a></strong></td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
-    <tr><td>1:00 PM</td><td><strong>The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong><a href="https://uberflux.com/product/NS-SpectreSniffer">Spectre Sniffer</a></strong> — NilbinSec</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
+    <tr><td>1:00 PM</td><td><strong>Darrknet-NG SMAO: The challenges of integrating more than LEDs in your first SAO</strong> &mdash; Boko</td><td><strong><a href="https://uberflux.com/product/NS-SpectreSniffer">Spectre Sniffer</a></strong> — NilbinSec</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>1:30 PM</td><td><strong>Laser* Tag: Playing with basic wireless networking for fun and graceful degradation</strong> &mdash; dani.pink</td><td><strong><a href="https://uberflux.com/product/HCK-hfsdr">hfsdr badge</a></strong> &mdash; Hackin7</td><td></td><td>Zedish</td><td>Vynra</td><td>Kitsu</td></tr>
     <tr><td>2:00 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://www.dani.pink/lasertag/about">Laser* Tag DS Badge</a></strong> &mdash; dani.pink</td><td><strong><a href="https://zachs-hacks.myshopify.com/products/monorail-badge">Monorail badge with sphere and high roller SAO</a></strong> &mdash; _fladnag</td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
     <tr><td>2:30 PM</td><td><strong>Badgelife Trivia</strong> &mdash; Hosted by Badgelife Village</td><td><strong><a href="https://wsiiax.myshopify.com/">The Whose Slide Is It Anyway 10 Year Anniversary Badge</a></strong> &mdash; rand0h</td><td></td><td>Contessa</td><td>2PAC</td><td>Gemini</td></tr>
