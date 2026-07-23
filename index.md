@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-![Badgelife Banner](assets/images/BadgelifeNewBanner.png)
+![Badgelife Banner](assets/images/2026-Logo-Badgelife-Village-Banner-GreenBG-829x263.png)
 
 # Welcome to BadgeLife!
 Welcome to **BadgeLife**, the home of the recently-evolved #Badgelife Village! We're back as a proper village this year, woohoo! Check out our navigation menu for things like the [Badge Archive](/badges), [Specification Documentation](/specs), the upcoming [Badgelife API](#), and more! Current event information will be hosted on this page, such as the Badgelife Village Schedule, Village Badge and SAO instructions, our [Badgelife Village Prospectus](/assets/files/Badgelife-Village-DEFCON-34.pdf) for sharing with sponsors, and more!  
