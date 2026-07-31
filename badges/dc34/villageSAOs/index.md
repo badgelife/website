@@ -4,7 +4,7 @@ layout: default
 parent: DC34
 grand_parent: Badge Archive
 redirect_from:
-  - /VillageSAOs
+  - /villageSAOs
 ---
 # Badgelife Village SAOs (DC34 / 2026)
 - Image
