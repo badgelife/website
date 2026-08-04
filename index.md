@@ -68,11 +68,11 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     </tr>
     <tr>
       <td>10:00 AM</td>
-      <td colspan="7"><span class="note">Village Load-In — Not Open To Public (Panda, GhostGlitch Crew, LqqtOut)</span></td>
+      <td colspan="7"><span class="note">Village Load-In — Not Open To Public (Panda, GhostGlitch Crew, LqqkOut)</span></td>
     </tr>
     <tr>
       <td>3:00 PM</td>
-      <td colspan="7"><span class="note">Village Load-In (Continued) — Not Open To Public (Blinkingthing, Panda, GhostGlitch Crew, LqqtOut)</span></td>
+      <td colspan="7"><span class="note">Village Load-In (Continued) — Not Open To Public (Blinkingthing, Panda, GhostGlitch Crew, LqqkOut)</span></td>
     </tr>
     <tr>
       <td>5:00 PM</td>
@@ -107,9 +107,9 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>9:30 AM</td>
       <td colspan="7"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
-    <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>LqqtOut</td></tr>
-    <tr><td>10:30 AM</td><td></td><td><strong><a href="https://uberflux.com/product/PL-1471">MalO SAO</a></strong> &mdash; ParallelLogic</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>LqqtOut</td></tr>
-    <tr><td>11:00 AM</td><td><strong>Resurrecting Lost Badges: The Dark Art Of Badgelife Necromancy</strong> &mdash; LqqtOut &amp; Ozma</td><td><strong><a href="https://uberflux.com/product/NIKO-CLIPPY">Clip-Boy Badge</a></strong> &mdash; Coruscant Productions</td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>Trac3r42</td></tr>
+    <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>LqqkOut</td></tr>
+    <tr><td>10:30 AM</td><td></td><td><strong><a href="https://uberflux.com/product/PL-1471">MalO SAO</a></strong> &mdash; ParallelLogic</td><td><strong><a href="https://forms.gle/spmnMTaADVngRYsB8">Masonic33 Badge</a></strong> &mdash; heal</td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>LqqkOut</td></tr>
+    <tr><td>11:00 AM</td><td><strong>Resurrecting Lost Badges: The Dark Art Of Badgelife Necromancy</strong> &mdash; LqqkOut &amp; Ozma</td><td><strong><a href="https://uberflux.com/product/NIKO-CLIPPY">Clip-Boy Badge</a></strong> &mdash; Coruscant Productions</td><td></td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>Trac3r42</td></tr>
     <tr><td>11:30 AM</td><td></td><td><strong><a href="https://ko-fi.com/caelybr/shop">Not Just a Crosswalk SAO/No Ice SAO</a></strong> &mdash; Caelyb</td><td><strong><a href="https://uberflux.com/product/DLPHI-SAO-LUNA">Luna SAO</a></strong> &mdash; Delphi</td><td>Acetolyne</td><td>Hamster</td><td>K4rm4</td><td>Trac3r42</td></tr>
     <tr><td>12:00 PM</td><td><strong>Badgelife in Singapore</strong> &mdash; Hackin7</td><td><strong><a href="https://bigtaro.net/wordweaving-badge">Wordweaving Badge</a></strong> &mdash; BigTaro</td><td><strong><a href="https://wyrdwyrks.com/celestial-wayfinder/">Celestial Wayfinder Badge</a></strong> &mdash; Wyrd Wyrks</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td><td>Trac3r42</td></tr>
     <tr><td>12:30 PM</td><td></td><td><strong><a href="https://lepi-labs.com/shop">lepi-labs SAOs</a></strong></td><td><strong><a href="https://uberflux.com/product/HAMST-DCZIA-2026">Mk9 Badge</a></strong> &mdash; DCZia</td><td>Zedish</td><td>Vynra</td><td>Kitsu</td><td>Trac3r42</td></tr>
@@ -205,10 +205,10 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>9:30 AM</td>
       <td colspan="7"><span class="note">Set Up — Not Open To Public</span></td>
     </tr>
-    <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqtOut</td></tr>
-    <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqtOut</td></tr>
-    <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqtOut</td></tr>
-    <tr><td>11:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqtOut</td></tr>
+    <tr><td>10:00 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqkOut</td></tr>
+    <tr><td>10:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqkOut</td></tr>
+    <tr><td>11:00 AM</td><td><strong>Lumen PnP Tech Demo</strong> &mdash; Zedish &amp; Vynra</td><td></td><td><strong><a href="https://www.bigfuckingbadge.com">Big Fucking Badges and SAOs</a></strong> &mdash; hexum064</td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqkOut</td></tr>
+    <tr><td>11:30 AM</td><td></td><td></td><td></td><td>Hashikitty</td><td>Penzz</td><td>K4rm4</td><td>LqqkOut</td></tr>
     <tr><td>12:00 PM</td><td><strong>No-Code SAO Design</strong> &mdash; Kitsu</td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td><td>K4rm4</td></tr>
     <tr><td>12:30 PM</td><td></td><td></td><td></td><td>xenu</td><td>Hackin7</td><td>p0lix</td><td>K4rm4</td></tr>
     <tr>
