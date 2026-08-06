@@ -30,7 +30,7 @@ redirect_from:
 * **Vocabulary**
     * Circuit Board - the board part with
     * PCBA (Printed Circuit Board Assembly) - The circuit board along with all of its components
-    ![Printed Circuit Board Assembly](assets/images/dc34_villageSAOs/pcba.jpg)
+    ![Printed Circuit Board Assembly](../../assets/images/dc34_villageSAOs/pcba.jpg)
     * Components - the parts on the board
     * IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
     ![Multipin Integrated Circuit](assets/images/dc34_villageSAOs/ic.png)
