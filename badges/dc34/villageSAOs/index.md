@@ -28,9 +28,9 @@ redirect_from:
     * Pronounced “soddering” in American English – the “l” is silent!
 
 * **Vocabulary**
-    * Circuit Board - the board part with
+    * Circuit Board - the board part without components
     * PCBA (Printed Circuit Board Assembly) - The circuit board along with all of its components
-    <img src="../../../assets/images/dc34_villageSAOs/pcba.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;">
+    <li><img src="../../../assets/images/dc34_villageSAOs/pcba.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></li>
     * Components - the parts on the board
     * IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
     ![Multipin Integrated Circuit](../../../assets/images/dc34_villageSAOs/ic.png)
