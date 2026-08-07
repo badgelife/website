@@ -98,7 +98,7 @@ redirect_from:
       <li>Don’t be afraid to ask for help!</li>
     </ul>
   </li>
-  <li><strong>Your turn!
+  <li><strong>Your turn!</strong>
     <ul>
       <li>All components should be in the bags</li>
       <li>Get your LEDs from the front table</li>
