@@ -139,4 +139,49 @@ redirect_from:
       </li>
     </ul>
   </li>
+<li><strong>Level 2 Guide:</strong>
+    <ul>
+      <li>Through-Hole Resistors:
+        <ul>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_01.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_02.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_03.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+      <li>Through-Hole LEDs:
+        <ul>
+          <li>Remember that LEDs have an orientation!</li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_04.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_05.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_06.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+      <li>Surface Mount Resistors:
+        <ul>
+          <li>Surface mount resistors also don’t have an orientation! Still put them any which way you like</li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_07.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+      <li>Surface Mount LEDs:
+        <ul>
+          <li>Surface mount LEDs also have an orientation! The arrow on the LEDs points down/to the bottom of the U-shaped silkscreen</li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_08.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/sm_led.png" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+      <li>Female SAO v2.0 Connector:
+        <ul>
+          <li>This connector has an orientation! The key in the housing matches the bump-out on the silkscreen</li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_09.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_10.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+      <li>Male SAO v2.0 Connector:
+        <ul>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_11.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_12.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
