@@ -22,27 +22,32 @@ redirect_from:
     <li>PCBA (Printed Circuit Board Assembly) - The circuit board along with all of its components 
       <div><img src="../../../assets/images/dc34_villageSAOs/pcba.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
     </li>
-    <li>Components - the parts on the board </li>
-    <li>IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
+    <li> Components - the parts on the board </li>
+    <li> IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
       <div><img src="../../../assets/images/dc34_villageSAOs/ic.png" alt="Multipin Integrated Circuit" style="max-height: 200px;"></div>
     </li>
     <li>Pins - each individual metal lead on a component </li>
     <li>Through hole component – has leads that physically pass through the board 
       <div><img src="../../../assets/images/dc34_villageSAOs/through_hole_resistors.png" alt="4 through-hole resistors" style="max-height: 300px;"></div>
     </li>
-    <li>Surface mount component – is flat and adheres to one side of a board 
+    <li> Surface mount component – is flat and adheres to one side of a board 
       <div><img src="../../../assets/images/dc34_villageSAOs/surface_mount_resistors.jpeg" alt="5 surface mount resistors" style="max-height: 300px;"></div>
     </li>
     <li>
       <div class="row">
         <div class="column">
-          <li>Copper plate - the copper ground plane inside the board </li>
-          <li>Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
-          <li>Pad – the exposed metal that components adhere to (gold in this photo) </li>
+          <li> Copper plate - the copper ground plane inside the board </li>
+          <li> Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
+          <li> Pad – the exposed metal that components adhere to (gold in this photo) </li>
         </div>
         <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png" style="max-height: 300px;">
         </div>
       </div>
     </li>
+    <li> Silk screen – the designs/writing on a board </li>
+    <li> Solder Mask - a protective layer applied over printed circuit board copper traces to prevent short circuits, stop solder bridging, and block environmental corrosion. Also gives boards fun colors! 
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_01.jpg" style="max-height: 300px;"></div>
+    </li>
+
   </li>
 </ul>
