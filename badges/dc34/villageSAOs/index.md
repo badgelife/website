@@ -43,6 +43,11 @@ redirect_from:
       <li> Solder Mask - a protective layer applied over printed circuit board copper traces to prevent short circuits, stop solder bridging, and block environmental corrosion. Also gives boards fun colors! 
       <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_01.jpg" style="max-height: 300px;"></div>
       </li>
+      <li> Tinning – Putting a small amount of solder on the tip of the iron to protect it/prevent oxidation </li>
+      <li> Soldering Iron </li>
+      <li> Tip </li>
+      <li>Soldering Station </li>
+      <li>Tip cleaning surface (sponge or brass) </li>
     </ul>
   </li>
 </ul>
