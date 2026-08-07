@@ -41,10 +41,11 @@ redirect_from:
     <div><img src="../../../assets/images/dc34_villageSAOs/surface_mount_resistors.jpeg" alt="5 surface mount resistors" style="max-height: 300px;"></div>
     <li>
       <div class="row">
-      <div class="column"></div>
-      * Copper plate - the copper ground plane inside the board
-      * Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo)
-      * Pad – the exposed metal that components adhere to (gold in this photo)
+      <div class="column">
+      <li> Copper plate - the copper ground plane inside the board </li>
+      <li> Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
+      <li> Pad – the exposed metal that components adhere to (gold in this photo) </li>
+      </div>
       <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png"></div>
       </div>
     </li>
