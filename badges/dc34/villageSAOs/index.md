@@ -173,13 +173,13 @@ redirect_from:
         <ul>
           <li>This connector has an orientation! The key in the housing matches the bump-out on the silkscreen</li>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_09.jpg" style="max-height: 300px;"></li>
-          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_10.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_11.jpg" style="max-height: 300px;"></li>
         </ul>
       </li>
       <li>Male SAO v2.0 Connector:
         <ul>
-          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_11.jpg" style="max-height: 300px;"></li>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_12.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_13.jpg" style="max-height: 300px;"></li>
         </ul>
       </li>
     </ul>
