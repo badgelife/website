@@ -106,25 +106,25 @@ redirect_from:
   <li><strong>Level 1 Guide:
     <li>Resistors:
       <li>Resistors don't have an orientation! Put them any which way you like</li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_02.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_03.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_04.png" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_02.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_03.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_04.jpg" style="max-height: 300px;"></li>
     </li>
     <li>LEDs:
       <li>LEDS HAVE AN ORIENTATION! There is a right way and a wrong way. The long end is positive</li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_05.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_06.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_07.png" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_05.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_06.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_07.jpg" style="max-height: 300px;"></li>
     </li>
     <li>SAO v2.0 Connector:
       <li>This connector has an orientation! The gap in the housing matches the gap on the silkscreen</li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_08.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_09.png" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_08.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_09.jpg" style="max-height: 300px;"></li>
     </li>
     <li>SAO v1.0 Connector:
       <li>This connector doesn't have an orientation! Put it any which way you like</li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.png" style="max-height: 300px;"></li>
-      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_11.png" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.jpg" style="max-height: 300px;"></li>
+      <li><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_11.jpg" style="max-height: 300px;"></li>
     </li>
   </li>
 </ul>
