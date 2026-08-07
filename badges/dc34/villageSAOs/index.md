@@ -139,7 +139,7 @@ redirect_from:
       </li>
     </ul>
   </li>
-<li><strong>Level 2 Guide:</strong>
+  <li><strong>Level 2 Guide:</strong>
     <ul>
       <li>Through-Hole Resistors:
         <ul>
@@ -180,6 +180,15 @@ redirect_from:
         <ul>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_12.jpg" style="max-height: 300px;"></li>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_13.jpg" style="max-height: 300px;"></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+<li><strong>Level 3 Guide:</strong>
+    <ul>
+      <li>This one is a challenge :&#41;
+        <ul>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg" style="max-height: 300px;"></li>
         </ul>
       </li>
     </ul>
