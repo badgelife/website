@@ -33,4 +33,27 @@ redirect_from:
     <div><img src="../../../assets/images/dc34_villageSAOs/pcba.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
     * Components - the parts on the board
     * IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
-    ![Multipin Integrated Circuit](../../../assets/images/dc34_villageSAOs/ic.png)
+    <div><img src="../../../assets/images/dc34_villageSAOs/ic.png" alt="Multipin Integrated Circuit" style="max-height: 200px;"></div>
+    * Pins - each individual metal lead on a component
+    * Through hole component – has leads that physically pass through the board
+    <div><img src="../../../assets/images/dc34_villageSAOs/through_hole_resistors.png" alt="4 through-hole resistors" style="max-height: 300px;"></div>
+    * Surface mount component – is flat and adheres to one side of a board
+    <div><img src="../../../assets/images/dc34_villageSAOs/surface_mount_resistors.jpeg" alt="5 surface mount resistors" style="max-height: 300px;"></div>
+    <li>
+      <div class="row">
+      <div class="column"></div>
+      * Copper plate - the copper ground plane inside the board
+      * Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo)
+      * Pad – the exposed metal that components adhere to (gold in this photo)
+      <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png"></div>
+      </div>
+    </li>
+
+
+## II. The Soldering Process
+
+## III. Safety
+
+## IV. Level 1 SAO Guide
+
+## V. Level 2 SAO Guide
