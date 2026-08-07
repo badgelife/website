@@ -28,16 +28,16 @@ redirect_from:
     * Pronounced “soddering” in American English – the “l” is silent!
 
 * **Vocabulary**
-    * Circuit Board - the board part without components
-    * PCBA (Printed Circuit Board Assembly) - The circuit board along with all of its components
+    <li>Circuit Board - the board part without components
+    <li>PCBA (Printed Circuit Board Assembly) - The circuit board along with all of its components
     <div><img src="../../../assets/images/dc34_villageSAOs/pcba.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
-    * Components - the parts on the board
-    * IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
+    <li>Components - the parts on the board
+    <li>IC (Integrated Circuit) - Multiple components (like resistors, transistors, and capacitors) packaged together into a single unit
     <div><img src="../../../assets/images/dc34_villageSAOs/ic.png" alt="Multipin Integrated Circuit" style="max-height: 200px;"></div>
-    * Pins - each individual metal lead on a component
-    * Through hole component – has leads that physically pass through the board
+    <li>Pins - each individual metal lead on a component
+    <li>Through hole component – has leads that physically pass through the board
     <div><img src="../../../assets/images/dc34_villageSAOs/through_hole_resistors.png" alt="4 through-hole resistors" style="max-height: 300px;"></div>
-    * Surface mount component – is flat and adheres to one side of a board
+    <li>Surface mount component – is flat and adheres to one side of a board
     <div><img src="../../../assets/images/dc34_villageSAOs/surface_mount_resistors.jpeg" alt="5 surface mount resistors" style="max-height: 300px;"></div>
     <li>
       <div class="row">
