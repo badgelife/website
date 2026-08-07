@@ -12,7 +12,7 @@ Welcome to **BadgeLife**, the home of the recently-evolved #Badgelife Village! W
 Be sure to Follow Us on our new [BlueSky](https://bsky.app/profile/badgelife.bsky.social), and check us out on the [DC 34 Website](https://defcon.org/html/defcon-34/dc-34-villages.html#orga_41349)!
 
 ## DC34 Badgelife Village SAO Instructions and Badge Documentation
-Looking for details on how to build our SAOs and interact with the DC34 Badgelife Village Badge? [Click Here!](badges/dc34/villageSAOs/)
+Looking for details on how to build our SAOs and interact with the DC34 Badgelife Village Badge?[Click here for the village badge!](badges/dc34/villagebadge/) or [Click here for SAOs!](badges/dc34/villageSAOs/)
   
 ## DC34 Village Schedule:
 All events listed here take place in the Badgelife Village. Most will be at our "silent disco" type stage setup. Please be sure to thank our 2026 Village Sponsors below! They really came through last year and are helping us fund this year as well!
