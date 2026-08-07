@@ -103,6 +103,7 @@ redirect_from:
       <li>All components should be in the bags</li>
       <li>Get your LEDs from the front table</li>
       <li>The silkscreen (writing) on the board will show you which way the components go, but you can ask a volunteer if you’re not sure!</li>
+      <li>THE SIDE OF THE BOARD THE COMPONENT IS ON DOES MATTER. PUT THE COMPONENTS ON THE SAME SIDE AS DISPLAYED IN THE PHOTOS</li>
     </ul>
   </li>
   <li><strong>Level 1 Guide:</strong>
