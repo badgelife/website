@@ -6,7 +6,6 @@ grand_parent: Badge Archive
 redirect_from:
   - /villageSAOs
 ---
-<main>
 <h1 id="badgelife-village-saos-dc34--2026">Badgelife Village SAOs (DC34 / 2026) </h1>
 <h1 id="soldering-101">Soldering 101 </h1>
 <h2 id="i-the-basics--vocabulary">I. The Basics &amp; Vocabulary </h2>
@@ -43,5 +42,5 @@ redirect_from:
         </div>
       </div>
     </li>
-  </ul>
-</main>
+  </li>
+</ul>
