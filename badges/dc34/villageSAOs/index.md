@@ -105,7 +105,7 @@ redirect_from:
       <li>The silkscreen (writing) on the board will show you which way the components go, but you can ask a volunteer if you’re not sure!</li>
     </ul>
   </li>
-  <li><strong>Level 1 Guide:
+  <li><strong>Level 1 Guide:</strong>
     <ul>
       <li>Resistors:
         <li>Resistors don't have an orientation! Put them any which way you like</li>
