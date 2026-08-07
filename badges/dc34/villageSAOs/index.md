@@ -36,18 +36,18 @@ redirect_from:
     <li>
       <div class="row">
         <div class="column">
-          <li> Copper plate - the copper ground plane inside the board </li>
-          <li> Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
-          <li> Pad – the exposed metal that components adhere to (gold in this photo) </li>
+          <ul>
+            <li> Copper plate - the copper ground plane inside the board </li>
+            <li> Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
+            <li> Pad – the exposed metal that components adhere to (gold in this photo) </li>
+          </ul>
         </div>
-        <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png" style="max-height: 300px;">
-        </div>
+        <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png" style="max-height: 300px;"></div>
       </div>
     </li>
     <li> Silk screen – the designs/writing on a board </li>
     <li> Solder Mask - a protective layer applied over printed circuit board copper traces to prevent short circuits, stop solder bridging, and block environmental corrosion. Also gives boards fun colors! 
     <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_01.jpg" style="max-height: 300px;"></div>
     </li>
-
   </li>
 </ul>
