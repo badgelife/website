@@ -40,7 +40,7 @@ redirect_from:
           <li>Trace – the underlying metal that connects components on a board (can be difficult to see – light green in this photo) </li>
           <li>Pad – the exposed metal that components adhere to (gold in this photo) </li>
         </div>
-        <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png" alt="5 surface mount resistors" style="max-height: 300px;">
+        <div class="column"><img src="../../../assets/images/dc34_villageSAOs/blank_pcb.png" style="max-height: 300px;">
         </div>
       </div>
     </li>
