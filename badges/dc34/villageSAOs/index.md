@@ -190,6 +190,7 @@ redirect_from:
       <li>This one is a challenge :&#41;
         <ul>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_02.jpg" style="max-height: 300px;"></li>
         </ul>
       </li>
     </ul>
