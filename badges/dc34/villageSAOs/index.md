@@ -101,7 +101,7 @@ redirect_from:
       <div><img src="../../../assets/images/dc34_villageSAOs/good_bad_joints.png" style="max-height: 300px;"></div>
     </li>
     <li>If your joint is cold, try heating the joint a bit more. Don’t add more solder until you’ve tried reheating/are sure you need it</li>
-    <li>If you need to remove solder, here's how to use the provided copper braid:</li>
+    <li>Bridged pins &#41;pins that are connected together by solder that shouldn't be &#42; are also the cause of most circuit problem! If you need to remove solder, here's how to use the provided copper braid:</li>
       <ul>
         <li>Press the braid to the joint, then press your iron to the braid. The braid will absorb some of the solder
         <div><img src="../../../assets/images/dc34_villageSAOs/braid2.jpg" style="max-height: 300px;"></div>
