@@ -18,8 +18,8 @@ redirect_from:
   </li>
   <li>Level 3 SAO
     <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg"  style="max-height: 300px;"></div>
-    <a href="../../../assets/files/Level3.kicad_sch">Download Schematic</a>
     <div><img src="../../../assets/images/dc34_villageSAOs/SAO3-Modes.png" style="max-height: 300px;"></div>
+    <a href="../../../assets/files/Level3.kicad_sch">Download Schematic</a>
     <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_sch.png" style="max-height: 300px;"></div>
   </li>
 </ul>
