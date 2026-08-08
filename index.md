@@ -242,7 +242,7 @@ We’re always looking for new members to join our vibrant community. Whether yo
 - ![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
 
 ## We appreciate any and all donations!
-- Please list your name in your donation and that you're donating to Badgelife
+- Please list the name you want displayed that you're donating to Badgelife when you donate!
 - <a href="https://www.paypal.com/qrcodes/managed/72154c3f-350d-4c5a-8af7-6cd359422fa5?utm_source=consapp_onscreen">PayPal Donation Link</a>
 - <img src="../../../assets/images/Donation_QR.png" style="max-height: 300px;">
 ## 🎉 Our 2025 Badgelife Community Sponsors
