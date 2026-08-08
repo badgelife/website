@@ -83,7 +83,7 @@ redirect_from:
     <li>Clean the tip using a sponge or brass tip cleaner</li>
     <li>Tin the tip again</li>
     <li>Install the component and hold in place with a physical connection (you can use tweezers if you want! don’t burn your hands!)</li>
-    <li>Heat the component lead and the circuit board pad – ensure the tip is touching BOTH the component and the pad</li>
+    <li>Heat the circuit board pad and component lead – ensure the tip is touching BOTH the pad on the PCB and the component</li>
     <li>Touch solder to the component lead and pad - melt the right amount of solder (art)</li>
     <li>You'll figure out what the right amount is with practice! Start with less, but it's ok if you use too much</li>
     <li>Remember, heat transfer is more important than pressure!</li>
