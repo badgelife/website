@@ -103,7 +103,7 @@ redirect_from:
     <li>If your joint is cold, try heating the joint a bit more. Don’t add more solder until you’ve tried reheating/are sure you need it</li>
     <li>If you need to remove solder, here's how to use the provided copper braid:</li>
       <ul>
-        <li>If there’s too much solder, use a copper braid. Press it to the joint, then press your iron to the braid. The braid will absorb some of the solder
+        <li>Press the braid to the joint, then press your iron to the braid. The braid will absorb some of the solder
         <div><img src="../../../assets/images/dc34_villageSAOs/braid2.jpg" style="max-height: 300px;"></div>
         </li>
         <li><img src="../../../assets/images/dc34_villageSAOs/braid_sins_01.jpg" style="max-height: 300px;"></li>
