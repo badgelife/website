@@ -7,6 +7,8 @@ redirect_from:
   - /villageSAOs
 ---
 <h1 id="badgelife-village-saos-dc34--2026">Badgelife Village SAOs (DC34 / 2026) </h1>
+<h1>Sponsored by ifixit</h1>
+<h2>Developed by the GhostGlitch team &#41;Vyna, Zedish, and Kitsu&#42;</h2>
 <ul>
   <li>Level 1 SAO
     <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.jpg" style="max-height: 300px;"></div>
