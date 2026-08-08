@@ -7,6 +7,17 @@ redirect_from:
   - /villageSAOs
 ---
 <h1 id="badgelife-village-saos-dc34--2026">Badgelife Village SAOs (DC34 / 2026) </h1>
+<ul>
+  <li>Level 1 SAO
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+  </li>
+  <li>Level 2 SAO
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_13.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+  </li>
+  <li>Level 3 SAO
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_1.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+  </li>
+</ul>
 <h1 id="soldering-101">Soldering 101 </h1>
 <h2 id="i-the-basics--vocabulary">I. The Basics &amp; Vocabulary </h2>
 <ul>
@@ -190,7 +201,7 @@ redirect_from:
       <li>This one is a challenge :&#41;
         <ul>
           <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg" style="max-height: 300px;"></li>
-          <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_02.jpg" style="max-height: 300px;"></li>
+          <li><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_02  .jpg" style="max-height: 300px;"></li>
         </ul>
       </li>
     </ul>
