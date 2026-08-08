@@ -239,11 +239,11 @@ DC 34: https://docs.google.com/spreadsheets/d/1wQ6J0tJiVCPgppxiPg_mM6mS6Il-jm3Ez
 
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, as long as you're a creator, there’s a place for you here:
 - **Join us on the BadgeMakers Discord: https://discord (dot) gg (slash) R4jGhTqJ3J)**
-![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
+- ![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
 
 ## We appreciate any and all donations!
 - Please list your name in your donation and that you're donating to Badgelife
-<a href="https://www.paypal.com/qrcodes/managed/72154c3f-350d-4c5a-8af7-6cd359422fa5?utm_source=consapp_onscreen">PayPal Donation Link</a>
+- <a href="https://www.paypal.com/qrcodes/managed/72154c3f-350d-4c5a-8af7-6cd359422fa5?utm_source=consapp_onscreen">PayPal Donation Link</a>
 - <img src="../../../assets/images/Donation_QR.png" style="max-height: 300px;">
 ## 🎉 Our 2025 Badgelife Community Sponsors
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
