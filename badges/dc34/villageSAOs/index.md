@@ -77,7 +77,7 @@ redirect_from:
     <li>Static discharge protection – not a hazard for you but can trash some sensitive components</li>
     <li>Watch for flying leads when clipping them</li>
   </li>
-  <li><strong>Soldering Process:</strong>
+  <li><strong>Through-Hole Soldering Process:</strong>
     <li>Turn on soldering iron and let it get to temperature</li>
     <li>Tin the tip using a small amount of solder</li>
     <li>Clean the tip using a sponge or brass tip cleaner</li>
@@ -111,6 +111,17 @@ redirect_from:
         <li><img src="../../../assets/images/dc34_villageSAOs/braid_how_to_use.jpg" style="max-height: 300px;"></li>
         <li>Don’t be afraid to ask for help!</li>
       </ul>
+  </li>
+  <li><strong>Surface Mount Soldering Process:</strong>
+    <ul>
+      <li>BEFORE placing your component on the board, heat one of the pads and add solder</li>
+      <li>Get ready to use your tweezers!</li>
+      <li>While heating that pad with your iron on one hand, pick up your component with tweezers with your other hand</li>
+      <li>Slide your component horizontally onto the heated/soldered pad</li>
+      <li>While holding the component in place, remove the iron</li>
+      <li>Wait for the solder to cool, then remove your tweezers</li>
+      <li>Heat the other pad of the component and add solder, let cool</li>
+    </ul>
   </li>
   <li><strong>Your turn!</strong>
     <ul>
