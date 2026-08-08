@@ -9,13 +9,13 @@ redirect_from:
 <h1 id="badgelife-village-saos-dc34--2026">Badgelife Village SAOs (DC34 / 2026) </h1>
 <ul>
   <li>Level 1 SAO
-    <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl1SAO_10.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
   </li>
   <li>Level 2 SAO
-    <div><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_13.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl2SAO_13.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
   </li>
   <li>Level 3 SAO
-    <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_1.jpg.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg" alt="Printed Circuit Board Assembly" style="max-height: 300px;"></div>
   </li>
 </ul>
 <h1 id="soldering-101">Soldering 101 </h1>
