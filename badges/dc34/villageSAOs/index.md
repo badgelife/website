@@ -18,11 +18,15 @@ redirect_from:
   </li>
   <li>Level 3 SAO
     <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_01.jpg"  style="max-height: 300px;"></div>
+    <a href="../../../assets/files/Level3.kicad_sch">Download Schematic</a>
+    <div><img src="../../../assets/images/dc34_villageSAOs/lvl3SAO_sch.png" style="max-height: 300px;"></div>
   </li>
 </ul>
 <h1 id="soldering-101">Soldering 101 </h1>
 <h2 id="i-the-basics--vocabulary">I. The Basics &amp; Vocabulary </h2>
 <ul>
+</ul>
+
   <li><strong>Soldering:</strong>
     <ul>
       <li>The process of making an electrical connection by melting low-temperature metal alloys around component leads</li>
