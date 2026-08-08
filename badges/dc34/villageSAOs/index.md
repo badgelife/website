@@ -56,10 +56,10 @@ redirect_from:
       </li>
       <li> Tinning – Putting a small amount of solder on the tip of the iron to protect it/prevent oxidation </li>
       <li> Soldering Iron 
-        <div><img src="../../../assets/images/dc34_villageSAOs/ifixit_annotatedjpg" style="max-height: 300px;"></div>
+        <div><img src="../../../assets/images/dc34_villageSAOs/ifixit_annotated.jpg" style="max-height: 300px;"></div>
       </li>
       <li>Tip cleaning surface (sponge or brass) 
-      <div><img src="../../../assets/images/dc34_villageSAOs/brass_spongejpeg" style="max-height: 200px;"></div>
+      <div><img src="../../../assets/images/dc34_villageSAOs/brass_sponge.jpeg" style="max-height: 200px;"></div>
       </li>
     </ul>
   </li>
@@ -100,12 +100,15 @@ redirect_from:
     <li>Cold solder joints are the cause of most circuit problems! (Don’t ask us for proof)
       <div><img src="../../../assets/images/dc34_villageSAOs/good_bad_joints.png" style="max-height: 300px;"></div>
     </li>
-    <li>If you joint is bad, there are a few options:</li>
+    <li>If your joint is cold, try heating the joint a bit more. Don’t add more solder until you’ve tried reheating/are sure you need it</li>
+    <li>If you need to remove solder, here's how to use the provided copper braid:</li>
       <ul>
-        <li>Rework: heat the joint a bit more. Don’t add more solder until you’ve tried reheating/are sure you need it</li>
         <li>If there’s too much solder, use a copper braid. Press it to the joint, then press your iron to the braid. The braid will absorb some of the solder
-        <div><img src="../../../assets/images/dc34_villageSAOs/braid.png" style="max-height: 300px;"></div>
+        <div><img src="../../../assets/images/dc34_villageSAOs/braid2.png" style="max-height: 300px;"></div>
         </li>
+        <li><img src="../../../assets/images/dc34_villageSAOs/braid_sins_01.png" style="max-height: 300px;"></li>
+        <li><img src="../../../assets/images/dc34_villageSAOs/braid_sins_02.png" style="max-height: 300px;"></li>
+        <li><img src="../../../assets/images/dc34_villageSAOs/braid_how_to_use.png" style="max-height: 300px;"></li>
         <li>Don’t be afraid to ask for help!</li>
       </ul>
   </li>
