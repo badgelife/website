@@ -48,7 +48,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     </tr>
   </thead>
   <tbody>
-
     <!-- ══════════════════════════════════════════════════════════ -->
     <!-- WEDNESDAY — AUGUST 5 · EARLY LOAD-IN (NOT OPEN TO PUBLIC) -->
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -59,7 +58,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>2:30 PM</td>
       <td colspan="7"><span class="note">Village Early Load-In — Not Open To Public</span></td>
     </tr>
-
     <!-- ══════════════════════════════════════════════════════════ -->
     <!-- THURSDAY — AUGUST 6 · LOAD-IN (NOT OPEN TO PUBLIC)        -->
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -78,7 +76,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>5:00 PM</td>
       <td colspan="7"><span class="note">Post Load-In / Wrap</span></td>
     </tr>
-
     <!-- ══════════════════════════════════════════════════════════ -->
     <!-- FRIDAY — AUGUST 7                                          -->
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -127,7 +124,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>6:00 PM</td>
       <td colspan="7"><span class="note">Doors Closed</span></td>
     </tr>
-
     <!-- ══════════════════════════════════════════════════════════ -->
     <!-- SATURDAY — AUGUST 8                                        -->
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -176,7 +172,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
       <td>6:00 PM</td>
       <td colspan="7"><span class="note">Doors Closed</span></td>
     </tr>
-
     <!-- ══════════════════════════════════════════════════════════ -->
     <!-- SUNDAY — AUGUST 9 · CLOSES AT 2PM                         -->
     <!-- ══════════════════════════════════════════════════════════ -->
@@ -222,7 +217,6 @@ All events listed here take place in the Badgelife Village. Most will be at our 
     <tr>
       <td colspan="8"><strong>FIN</strong></td>
     </tr>
-
   </tbody>
 </table>
 </div>
@@ -247,6 +241,10 @@ We’re always looking for new members to join our vibrant community. Whether yo
 - **Join us on the BadgeMakers Discord: https://discord (dot) gg (slash) R4jGhTqJ3J)**
 ![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
 
+## We appreciate any and all donations!
+- Please list your name in your donation and that you're donating to Badgelife
+<a href="https://www.paypal.com/qrcodes/managed/72154c3f-350d-4c5a-8af7-6cd359422fa5?utm_source=consapp_onscreen">PayPal Donation Link</a>
+- <img src="../../../assets/images/Donation_QR.png" style="max-height: 300px;">
 ## 🎉 Our 2025 Badgelife Community Sponsors
 Thank you so much to our incredible Community sponsors! I am absolutely blown away by the support we've recieved in such a short amount of time. You guys are amazing, thank you so much for your support!
 
