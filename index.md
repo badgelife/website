@@ -238,7 +238,7 @@ DC 34: https://docs.google.com/spreadsheets/d/1wQ6J0tJiVCPgppxiPg_mM6mS6Il-jm3Ez
 ## Join Us
 
 We’re always looking for new members to join our vibrant community. Whether you’re a seasoned badge creator or just getting started, as long as you're a creator, there’s a place for you here:
-- **Join us on the BadgeMakers Discord: https://discord (dot) gg (slash) R4jGhTqJ3J)**
+- **Join us on the BadgeMakers Discord: https://discord (dot) gg (slash) R4jGhTqJ3J**
 - ![Badgelife Discord Logo](assets/images/BadgelifeNewSquare.png)
 
 ## We appreciate any and all donations!
