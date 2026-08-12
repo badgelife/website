@@ -26,6 +26,7 @@ This guide covers the Power Boost bodge wire, the Distress Beacon LED, resistor,
 - An Infrared receiver
 - And lots of secrets to uncover!
 
+
 ## Before You Solder
 
 You will need:
@@ -42,18 +43,25 @@ You will need:
 
 ## Open the Badge CLI
 
-Use a USB **data** cable to connect the badge to a computer, then open its USB serial port at **115200 baud**. Commands are not case-sensitive.
+Use a USB **data** cable to connect the badge to a computer, then open its USB serial port at **115200 baud**. Commands are not case-sensitive, but CTF answers are.
+
+In order to play the badge CTF, you must connect to the badge CLI.  There are a few ways to connect (any serial terminal will do), but I recommend one of the following options:
+
+1.  Use the Arduino IDE's Serial Monitor.  This is the easiest way to get started, however it does NOT support color and ANSI terminal commands, so you will have to go with the black and white experience at boot (option 2).
+2.  Use PlatformIO.  This is what the badge was built in, and has the best support.  You need python to be installed first.  Then run `pip3 install platformio`, and after installed run `pio device monitor` to connect to it.
+
+Once connected to the badge, follow the first-time experience to set your terminal type (you can change this later in settings), and you are ready to use the badge!
 
 1. Type `ctf` to open the challenge list.
-2. Complete **The Beginning** to unlock **Power Boost**.
-3. Enter a challenge by typing its number.
-4. Type `activate` to run or replay that challenge.
+2. Enter a challenge by typing its number.
+3. Type `activate` or press the center button on the logo to run or replay that challenge.
+4. Complete **The Beginning** to unlock **Power Boost**.  Completing Power Boost will let you use the brightness settings on the badge.
 
 ## Challenge 2: Power Boost Bodge Wire
 
 1. Turn the badge off, unplug USB, and remove the battery.
 2. Locate the two separated exposed-copper sections in the **A** of `BADGELIFE`.
-3. Cut the supplied wire to the shortest length that comfortably reaches both points without being pulled tight.
+3. Cut any wire to the shortest length that comfortably reaches both points without being pulled tight.
 4. Strip and tin a small amount at each end. Do not leave enough exposed wire to touch nearby artwork or pads.
 5. Tin both connection points with a small amount of solder.
 6. Hold the wire flat against the board and solder one end in place.
@@ -176,6 +184,12 @@ python flash.py --monitor
 | The buzzer does not work in a feature that uses it | Disconnect power and confirm that its positive lead connects to `Peripheral +`, its negative lead connects to `Peripheral -`, and both joints are sound. |
 | The UF2 drive does not appear | Keep DFU held while powering on, or keep DFU held while tapping RESET. Release DFU only afterward. |
 | The badge is unresponsive after flashing | Re-enter DFU/BOOTSEL mode and copy a known-good badge UF2 again. |
+
+## Firmware Updates
+* Version 1.0.1 [[Download]](firmware1.0.1.uf2) Changes:
+  * Fixes an issue where Left Shark and An artsy boi can not be completed as designed
+  * Fixes an issue where the CLI was not echoing characters back to you when you type
+  * Fixes an issue where the buzzer was not working as intended.
 
 ## Links
 
