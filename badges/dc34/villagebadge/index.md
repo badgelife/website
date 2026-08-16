@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Badgelife Village Badge (DC34 / 2026)
 
-![Front of the Badgelife Village Badge](badge_front.png)
+![Front of the Badgelife Village Badge](badge-rotate.gif)
 
 Meet Badgey Bodgerton, the Badgelife Village badge. Badgey needs your help finishing a few factory-omitted connections before the badge can reach maximum bling.
 
